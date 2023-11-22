@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  doggo-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/
+    networks:
+      - doggo-network
+
+  mongo:
+    image: mongo
+    networks:
+      - doggo-network
+
+networks:
+  doggo-network:
