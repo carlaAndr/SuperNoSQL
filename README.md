@@ -3,9 +3,9 @@ Proyecto Otoño 2023
 Requerimientos:
 
 Utilizando la API : Superhéroes
-''bash
+ ```bash
   https://www.superheroapi.com/api.php/
-''
+ ```
 1. La API se vacía en un Datalake en Mongo.
    
 2. Se transforma la base de datos a Cassandra.
