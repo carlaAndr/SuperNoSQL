@@ -1,0 +1,303 @@
+_id,appearance.gender,appearance.race,appearance.height,appearance.weight,appearance.eye-color,appearance.hair-color
+656188c917cbd6bc5d2d4072,Male,Human,"[""6'8"", '203 cm']","['980 lb', '441 kg']",Yellow,No Hair
+656188c917cbd6bc5d2d4073,Male,Icthyo Sapien,"[""6'3"", '191 cm']","['145 lb', '65 kg']",Blue,No Hair
+656188c917cbd6bc5d2d4074,Male,Ungaran,"[""6'1"", '185 cm']","['200 lb', '90 kg']",Blue,No Hair
+656188c917cbd6bc5d2d4075,Male,Human / Radiation,"[""6'8"", '203 cm']","['980 lb', '441 kg']",Green,No Hair
+656188c917cbd6bc5d2d4076,Male,Cosmic Entity,"['-', '0 cm']","['- lb', '0 kg']",Blue,Black
+656188c917cbd6bc5d2d4077,Male,Human,"[""6'4"", '193 cm']","['270 lb', '122 kg']",Blue,No Hair
+656188ca17cbd6bc5d2d4078,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4079,Male,Human,"[""6'1"", '185 cm']","['195 lb', '88 kg']",Blue,Blond
+656188ca17cbd6bc5d2d407a,Female,unknown,"[""5'8"", '173 cm']","['135 lb', '61 kg']",Blue,Blond
+656188ca17cbd6bc5d2d407b,Male,Human,"[""5'10"", '178 cm']","['181 lb', '81 kg']",Brown,Brown
+656188ca17cbd6bc5d2d407c,Male,unknown,"[""6'3"", '191 cm']","['230 lb', '104 kg']",-,-
+656188ca17cbd6bc5d2d407d,Male,unknown,"[""6'2"", '188 cm']","['240 lb', '108 kg']",Blue,White
+656188ca17cbd6bc5d2d407e,Male,Cyborg,"[""6'4"", '193 cm']","['200 lb', '90 kg']",Brown,Black
+656188ca17cbd6bc5d2d407f,Male,unknown,"[""5'11"", '180 cm']","['201 lb', '90 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4080,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4081,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4082,Male,Human,"[""5'10"", '178 cm']","['160 lb', '72 kg']",Blue,Black
+656188ca17cbd6bc5d2d4083,Male,Xenomorph XX121,"[""8'0"", '244 cm']","['375 lb', '169 kg']",-,No Hair
+656188ca17cbd6bc5d2d4084,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4085,Male,Android,"[""8'5"", '257 cm']","['385 lb', '173 kg']",Red,-
+656188ca17cbd6bc5d2d4086,Male,Human,"[""6'2"", '188 cm']","['225 lb', '101 kg']",Brown,Black
+656188ca17cbd6bc5d2d4087,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4088,Male,Vampire,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4089,Male,unknown,"[""6'0"", '183 cm']","['150 lb', '68 kg']",Blue,Blond
+656188ca17cbd6bc5d2d408a,Female,Mutant,"[""5'5"", '165 cm']","['126 lb', '57 kg']",Yellow,Black
+656188ca17cbd6bc5d2d408b,Female,unknown,"[""5'4"", '163 cm']","['121 lb', '54 kg']",Brown,Black
+656188ca17cbd6bc5d2d408c,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d408d,Male,Human,"[""6'0"", '183 cm']","['185 lb', '83 kg']",Blue,Blond
+656188ca17cbd6bc5d2d408e,Male,unknown,"[""5'11"", '180 cm']","['200 lb', '90 kg']",Green,No Hair
+656188ca17cbd6bc5d2d408f,Male,Human,"[""6'11"", '211 cm']","['270 lb', '122 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4090,Male,Human,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4091,Male,God / Eternal,"['200', '61.0 meters']","['- lb', '0 kg']",Yellow,No Hair
+656188ca17cbd6bc5d2d4092,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4093,Male,Symbiote,"[""7'6"", '229 cm']","['795 lb', '358 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4094,Male,Mutant,"[""7'0"", '213 cm']","['300 lb', '135 kg']",Red,Black
+656188ca17cbd6bc5d2d4095,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4096,Male,Atlantean,"[""5'10"", '178 cm']","['235 lb', '106 kg']",Blue,Black
+656188ca17cbd6bc5d2d4097,Male,Atlantean,"[""6'1"", '185 cm']","['325 lb', '146 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4098,Female,Human,"[""5'9"", '175 cm']","['140 lb', '63 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4099,Male,Mutant,"[""6'0"", '183 cm']","['150 lb', '68 kg']",Blue,Blond
+656188ca17cbd6bc5d2d409a,Female,unknown,"[""5'8"", '173 cm']","['126 lb', '57 kg']",Violet,Purple
+656188ca17cbd6bc5d2d409b,Female,Alien,"[""6'4"", '193 cm']","['218 lb', '98 kg']",White,Orange
+656188ca17cbd6bc5d2d409c,Male,unknown,"[""6'1"", '185 cm']","['600 lb', '270 kg']",Brown,Brown
+656188ca17cbd6bc5d2d409d,Female,unknown,"[""5'5"", '165 cm']","['130 lb', '59 kg']",Purple,Pink
+656188ca17cbd6bc5d2d409e,Female,unknown,"[""5'4"", '163 cm']","['112 lb', '50 kg']",Black,Black
+656188ca17cbd6bc5d2d409f,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40a0,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+656188ca17cbd6bc5d2d40a1,Male,Mutant,"[""6'0"", '183 cm']","['225 lb', '101 kg']",Brown,Red
+656188ca17cbd6bc5d2d40a2,Male,God / Eternal,"[""6'6"", '198 cm']","['280 lb', '126 kg']",Blue,Brown
+656188ca17cbd6bc5d2d40a3,Male,unknown,"[""5'10"", '178 cm']","['150 lb', '68 kg']",Blue,Red
+656188ca17cbd6bc5d2d40a4,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40a5,Female,unknown,"[""5'6"", '168 cm']","['120 lb', '54 kg']",Black,Black
+656188ca17cbd6bc5d2d40a6,Male,Human,"[""6'0"", '183 cm']","['180 lb', '81 kg']",Brown,Auburn
+656188ca17cbd6bc5d2d40a7,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,Red
+656188ca17cbd6bc5d2d40a8,Male,unknown,"['-', '0 cm']","['160 lb', '72 kg']",Brown,Black
+656188ca17cbd6bc5d2d40a9,Female,Mutant,"[""5'11"", '180 cm']","['140 lb', '63 kg']",Blue,Black
+656188ca17cbd6bc5d2d40aa,Male,Neyaphem,"[""6'0"", '183 cm']","['149 lb', '67 kg']",Yellow,Black
+656188ca17cbd6bc5d2d40ab,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+656188ca17cbd6bc5d2d40ac,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40ad,Male,Human,"[""6'8"", '203 cm']","['400 lb', '180 kg']",-,-
+656188ca17cbd6bc5d2d40ae,Male,Human,"[""6'0"", '183 cm']","['170 lb', '77 kg']",Green,Strawberry Blond
+656188ca17cbd6bc5d2d40af,Male,unknown,"[""5'5"", '165 cm']","['119 lb', '54 kg']",Brown,Black
+656188ca17cbd6bc5d2d40b0,Female,Human,"[""5'7"", '170 cm']","['126 lb', '57 kg']",Green,Red
+656188ca17cbd6bc5d2d40b1,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40b2,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40b3,Female,Human,"[""5'5"", '165 cm']","['115 lb', '52 kg']",Green,Black
+656188ca17cbd6bc5d2d40b4,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40b5,Female,unknown,"[""5'6"", '168 cm']","['135 lb', '61 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40b6,Male,Human,"[""5'10"", '178 cm']","['170 lb', '77 kg']",Blue,Black
+656188ca17cbd6bc5d2d40b7,Male,Human,"[""6'2"", '188 cm']","['210 lb', '95 kg']",blue,black
+656188ca17cbd6bc5d2d40b8,Male,Human,"[""5'10"", '178 cm']","['175 lb', '79 kg']",Blue,Black
+656188ca17cbd6bc5d2d40b9,Male,unknown,"[""6'6"", '198 cm']","['295 lb', '133 kg']",Brown,Black
+656188ca17cbd6bc5d2d40ba,Female,Human,"[""5'10"", '178 cm']","['- lb', '0 kg']",Green,Red
+656188ca17cbd6bc5d2d40bb,Male,unknown,"[""5'9"", '175 cm']","['140 lb', '63 kg']",Black,White
+656188ca17cbd6bc5d2d40bc,Male,Mutant,"[""5'11"", '180 cm']","['402 lb', '181 kg']",Blue,Blue
+656188ca17cbd6bc5d2d40bd,Male,Human,"[""5'8"", '173 cm']","['150 lb', '68 kg']",Green,Green
+656188ca17cbd6bc5d2d40be,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40bf,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40c0,Male,unknown,"[""6'7"", '201 cm']","['480 lb', '216 kg']",-,No Hair
+656188ca17cbd6bc5d2d40c1,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40c2,Female,New God,"[""6'2"", '188 cm']","['300 lb', '135 kg']",Blue,Black
+656188ca17cbd6bc5d2d40c3,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40c4,Male,unknown,"[""5'5"", '165 cm']","['157 lb', '71 kg']",Blue,Brown
+656188ca17cbd6bc5d2d40c5,Male,Alpha,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40c6,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40c7,Female,unknown,"[""5'11"", '180 cm']","['120 lb', '54 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40c8,Female,Cyborg,"['-', '0 cm']","['- lb', '0 kg']",Blue,Black
+656188ca17cbd6bc5d2d40c9,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40ca,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40cb,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40cc,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40cd,Male,Mutant,"[""6'6"", '198 cm']","['275 lb', '124 kg']",Brown,No Hair
+656188ca17cbd6bc5d2d40ce,Male,Bizarro,"[""6'3"", '191 cm']","['345 lb', '155 kg']",Black,Black
+656188ca17cbd6bc5d2d40cf,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Red,Black
+656188ca17cbd6bc5d2d40d0,Male,unknown,"[""6'3"", '191 cm']","['250 lb', '113 kg']",Brown,Black
+656188ca17cbd6bc5d2d40d1,Male,Inhuman,"[""6'2"", '188 cm']","['210 lb', '95 kg']",Blue,Black
+656188ca17cbd6bc5d2d40d2,Female,Metahuman,"[""5'7"", '170 cm']","['130 lb', '59 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40d3,Female,Human,"[""5'5"", '165 cm']","['128 lb', '58 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40d4,Female,Human,"[""5'10"", '178 cm']","['120 lb', '54 kg']",Green,Blond
+656188ca17cbd6bc5d2d40d5,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40d6,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40d7,Male,Human,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Brown,Brown
+656188ca17cbd6bc5d2d40d8,Male,unknown,"[""6'1"", '185 cm']","['200 lb', '90 kg']",Brown,No Hair
+656188ca17cbd6bc5d2d40d9,Female,unknown,"[""5'7"", '170 cm']","['115 lb', '52 kg']",Green,Black
+656188ca17cbd6bc5d2d40da,Male,Human,"[""6'2"", '188 cm']","['205 lb', '92 kg']",Black,No Hair
+656188ca17cbd6bc5d2d40db,Male,Human,"[""6'0"", '183 cm']","['200 lb', '90 kg']",Brown,Black
+656188ca17cbd6bc5d2d40dc,Female,Human,"[""5'7"", '170 cm']","['131 lb', '59 kg']",Green,Auburn
+656188ca17cbd6bc5d2d40dd,Female,unknown,"[""5'7'"", '170 cm']","['135 lb', '61 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40de,Male,Demon,"[""6'3"", '191 cm']","['230 lb', '104 kg']",Red,White
+656188ca17cbd6bc5d2d40df,Male,unknown,"[""6'1"", '185 cm']","['190 lb', '86 kg']",Blue,Black
+656188ca17cbd6bc5d2d40e0,Male,Alien,"[""6'2"", '188 cm']","['195 lb', '88 kg']",Red,White
+656188ca17cbd6bc5d2d40e1,Male,Vampire,"[""6'2"", '188 cm']","['215 lb', '97 kg']",Brown,Black
+656188ca17cbd6bc5d2d40e2,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",Black,No Hair
+656188ca17cbd6bc5d2d40e3,Female,unknown,"[""5'6"", '168 cm']","['152 lb', '68 kg']",-,-
+656188ca17cbd6bc5d2d40e4,Female,Mutant,"[""5'5"", '165 cm']","['125 lb', '56 kg']",Green,Magenta
+656188ca17cbd6bc5d2d40e5,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,Brown
+656188ca17cbd6bc5d2d40e6,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40e7,Male,unknown,"[""5'9"", '175 cm']","['170 lb', '77 kg']",Brown,Brown
+656188ca17cbd6bc5d2d40e8,Male,unknown,"[""5'10"", '178 cm']","['510 lb', '230 kg']",Brown,Brown
+656188ca17cbd6bc5d2d40e9,Female,Human,"[""7'2"", '218 cm']","['1100 lb', '495 kg']",Blue,Brown
+656188ca17cbd6bc5d2d40ea,Male,Mutant,"['-', '0 cm']","['- lb', '0 kg']",Black,No Hair
+656188ca17cbd6bc5d2d40eb,Male,unknown,"[""100'0"", '30.5 meters']","['- lb', '0 kg']",White,No Hair
+656188ca17cbd6bc5d2d40ec,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Brown
+656188ca17cbd6bc5d2d40ed,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40ee,Male,unknown,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Blue,Brown
+656188ca17cbd6bc5d2d40ef,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+656188ca17cbd6bc5d2d40f0,Male,Human / Clone,"[""6'0"", '183 cm']","['- lb', '0 kg']",Brown,Black
+656188ca17cbd6bc5d2d40f1,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40f2,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40f3,Female,Mutant,"[""5'5"", '165 cm']","['122 lb', '55 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40f4,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40f5,Male,Human,"[""6'5"", '196 cm']","['215 lb', '97 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40f6,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40f7,-,unknown,"[""6'4"", '193 cm']","['245 lb', '110 kg']",Blue,Blond
+656188ca17cbd6bc5d2d40f8,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",Brown,Brown / Black
+656188ca17cbd6bc5d2d40f9,Male,Android,"[""6'6"", '198 cm']","['300 lb', '135 kg']",Green,No Hair
+656188ca17cbd6bc5d2d40fa,Male,unknown,"[""5'7"", '170 cm']","['135 lb', '61 kg']",Green,Blond
+656188ca17cbd6bc5d2d40fb,Male,Human,"[""6'0"", '183 cm']","['220 lb', '99 kg']",Brown,Brown / White
+656188ca17cbd6bc5d2d40fc,Male,Mutant,"[""6'4"", '193 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d40fd,Female,Human,"[""5'2"", '157 cm']","['115 lb', '52 kg']",Green,Blond
+656188ca17cbd6bc5d2d40fe,Male,Human,"[""6'0"", '183 cm']","['200 lb', '90 kg']",blue,blond
+656188ca17cbd6bc5d2d40ff,Female,Human,"[""5'7"", '170 cm']","['130 lb', '59 kg']",Brown,Black
+656188ca17cbd6bc5d2d4100,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4101,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4102,Male,Mutant,"[""6'8"", '203 cm']","['350 lb', '158 kg']",Blue,White
+656188ca17cbd6bc5d2d4103,Female,unknown,"[""5'9"", '175 cm']","['165 lb', '74 kg']",Blue,Black
+656188ca17cbd6bc5d2d4104,Male,Alpha,"['-', '0 cm']","['- lb', '0 kg']",-,-
+656188ca17cbd6bc5d2d4105,Male,unknown,"[""6'0"", '183 cm']","['181 lb', '81 kg']",Blue,Blond
+656188ca17cbd6bc5d2d4106,Male,Human,"[""6'2"", '188 cm']","['240 lb', '108 kg']",blue,blond
+656188ca17cbd6bc5d2d4107,Male,Human / Radiation,"[""6'4"", '193 cm']","['200 lb', '90 kg']",Blue,Silver
+656188ca17cbd6bc5d2d4108,Male,Human,"[""6'6"", '198 cm']","['257 lb', '116 kg']",Blue,Blond
+6563a1ae3ef936792ce0c211,Male,Human,"[""6'8"", '203 cm']","['980 lb', '441 kg']",Yellow,No Hair
+6563a1ae3ef936792ce0c212,Male,Icthyo Sapien,"[""6'3"", '191 cm']","['145 lb', '65 kg']",Blue,No Hair
+6563a1ae3ef936792ce0c213,Male,Ungaran,"[""6'1"", '185 cm']","['200 lb', '90 kg']",Blue,No Hair
+6563a1ae3ef936792ce0c214,Male,Human / Radiation,"[""6'8"", '203 cm']","['980 lb', '441 kg']",Green,No Hair
+6563a1ae3ef936792ce0c215,Male,Cosmic Entity,"['-', '0 cm']","['- lb', '0 kg']",Blue,Black
+6563a1ae3ef936792ce0c216,Male,Human,"[""6'4"", '193 cm']","['270 lb', '122 kg']",Blue,No Hair
+6563a1ae3ef936792ce0c217,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Blond
+6563a1ae3ef936792ce0c218,Male,Human,"[""6'1"", '185 cm']","['195 lb', '88 kg']",Blue,Blond
+6563a1ae3ef936792ce0c219,Female,unknown,"[""5'8"", '173 cm']","['135 lb', '61 kg']",Blue,Blond
+6563a1ae3ef936792ce0c21a,Male,Human,"[""5'10"", '178 cm']","['181 lb', '81 kg']",Brown,Brown
+6563a1ae3ef936792ce0c21b,Male,unknown,"[""6'3"", '191 cm']","['230 lb', '104 kg']",-,-
+6563a1ae3ef936792ce0c21c,Male,unknown,"[""6'2"", '188 cm']","['240 lb', '108 kg']",Blue,White
+6563a1ae3ef936792ce0c21d,Male,Cyborg,"[""6'4"", '193 cm']","['200 lb', '90 kg']",Brown,Black
+6563a1ae3ef936792ce0c21e,Male,unknown,"[""5'11"", '180 cm']","['201 lb', '90 kg']",Blue,Blond
+6563a1ae3ef936792ce0c21f,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c220,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c221,Male,Human,"[""5'10"", '178 cm']","['160 lb', '72 kg']",Blue,Black
+6563a1ae3ef936792ce0c222,Male,Xenomorph XX121,"[""8'0"", '244 cm']","['375 lb', '169 kg']",-,No Hair
+6563a1ae3ef936792ce0c223,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c224,Male,Android,"[""8'5"", '257 cm']","['385 lb', '173 kg']",Red,-
+6563a1ae3ef936792ce0c225,Male,Human,"[""6'2"", '188 cm']","['225 lb', '101 kg']",Brown,Black
+6563a1ae3ef936792ce0c226,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c227,Male,Vampire,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c228,Male,unknown,"[""6'0"", '183 cm']","['150 lb', '68 kg']",Blue,Blond
+6563a1ae3ef936792ce0c229,Female,Mutant,"[""5'5"", '165 cm']","['126 lb', '57 kg']",Yellow,Black
+6563a1ae3ef936792ce0c22a,Female,unknown,"[""5'4"", '163 cm']","['121 lb', '54 kg']",Brown,Black
+6563a1ae3ef936792ce0c22b,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c22c,Male,Human,"[""6'0"", '183 cm']","['185 lb', '83 kg']",Blue,Blond
+6563a1ae3ef936792ce0c22d,Male,unknown,"[""5'11"", '180 cm']","['200 lb', '90 kg']",Green,No Hair
+6563a1ae3ef936792ce0c22e,Male,Human,"[""6'11"", '211 cm']","['270 lb', '122 kg']",Blue,Blond
+6563a1ae3ef936792ce0c22f,Male,Human,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Blue,Blond
+6563a1ae3ef936792ce0c230,Male,God / Eternal,"['200', '61.0 meters']","['- lb', '0 kg']",Yellow,No Hair
+6563a1ae3ef936792ce0c231,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c232,Male,Symbiote,"[""7'6"", '229 cm']","['795 lb', '358 kg']",Blue,Blond
+6563a1ae3ef936792ce0c233,Male,Mutant,"[""7'0"", '213 cm']","['300 lb', '135 kg']",Red,Black
+6563a1ae3ef936792ce0c234,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Blond
+6563a1ae3ef936792ce0c235,Male,Atlantean,"[""5'10"", '178 cm']","['235 lb', '106 kg']",Blue,Black
+6563a1ae3ef936792ce0c236,Male,Atlantean,"[""6'1"", '185 cm']","['325 lb', '146 kg']",Blue,Blond
+6563a1ae3ef936792ce0c237,Female,Human,"[""5'9"", '175 cm']","['140 lb', '63 kg']",Blue,Blond
+6563a1ae3ef936792ce0c238,Male,Mutant,"[""6'0"", '183 cm']","['150 lb', '68 kg']",Blue,Blond
+6563a1ae3ef936792ce0c239,Female,unknown,"[""5'8"", '173 cm']","['126 lb', '57 kg']",Violet,Purple
+6563a1ae3ef936792ce0c23a,Female,Alien,"[""6'4"", '193 cm']","['218 lb', '98 kg']",White,Orange
+6563a1ae3ef936792ce0c23b,Male,unknown,"[""6'1"", '185 cm']","['600 lb', '270 kg']",Brown,Brown
+6563a1ae3ef936792ce0c23c,Female,unknown,"[""5'5"", '165 cm']","['130 lb', '59 kg']",Purple,Pink
+6563a1ae3ef936792ce0c23d,Female,unknown,"[""5'4"", '163 cm']","['112 lb', '50 kg']",Black,Black
+6563a1ae3ef936792ce0c23e,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c23f,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+6563a1ae3ef936792ce0c240,Male,Mutant,"[""6'0"", '183 cm']","['225 lb', '101 kg']",Brown,Red
+6563a1ae3ef936792ce0c241,Male,God / Eternal,"[""6'6"", '198 cm']","['280 lb', '126 kg']",Blue,Brown
+6563a1ae3ef936792ce0c242,Male,unknown,"[""5'10"", '178 cm']","['150 lb', '68 kg']",Blue,Red
+6563a1ae3ef936792ce0c243,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c244,Female,unknown,"[""5'6"", '168 cm']","['120 lb', '54 kg']",Black,Black
+6563a1ae3ef936792ce0c245,Male,Human,"[""6'0"", '183 cm']","['180 lb', '81 kg']",Brown,Auburn
+6563a1ae3ef936792ce0c246,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,Red
+6563a1ae3ef936792ce0c247,Male,unknown,"['-', '0 cm']","['160 lb', '72 kg']",Brown,Black
+6563a1ae3ef936792ce0c248,Female,Mutant,"[""5'11"", '180 cm']","['140 lb', '63 kg']",Blue,Black
+6563a1ae3ef936792ce0c249,Male,Neyaphem,"[""6'0"", '183 cm']","['149 lb', '67 kg']",Yellow,Black
+6563a1ae3ef936792ce0c24a,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+6563a1ae3ef936792ce0c24b,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c24c,Male,Human,"[""6'8"", '203 cm']","['400 lb', '180 kg']",-,-
+6563a1ae3ef936792ce0c24d,Male,Human,"[""6'0"", '183 cm']","['170 lb', '77 kg']",Green,Strawberry Blond
+6563a1ae3ef936792ce0c24e,Male,unknown,"[""5'5"", '165 cm']","['119 lb', '54 kg']",Brown,Black
+6563a1ae3ef936792ce0c24f,Female,Human,"[""5'7"", '170 cm']","['126 lb', '57 kg']",Green,Red
+6563a1ae3ef936792ce0c250,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c251,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c252,Female,Human,"[""5'5"", '165 cm']","['115 lb', '52 kg']",Green,Black
+6563a1ae3ef936792ce0c253,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c254,Female,unknown,"[""5'6"", '168 cm']","['135 lb', '61 kg']",Blue,Blond
+6563a1ae3ef936792ce0c255,Male,Human,"[""5'10"", '178 cm']","['170 lb', '77 kg']",Blue,Black
+6563a1ae3ef936792ce0c256,Male,Human,"[""6'2"", '188 cm']","['210 lb', '95 kg']",blue,black
+6563a1ae3ef936792ce0c257,Male,Human,"[""5'10"", '178 cm']","['175 lb', '79 kg']",Blue,Black
+6563a1ae3ef936792ce0c258,Male,unknown,"[""6'6"", '198 cm']","['295 lb', '133 kg']",Brown,Black
+6563a1ae3ef936792ce0c259,Female,Human,"[""5'10"", '178 cm']","['- lb', '0 kg']",Green,Red
+6563a1ae3ef936792ce0c25a,Male,unknown,"[""5'9"", '175 cm']","['140 lb', '63 kg']",Black,White
+6563a1ae3ef936792ce0c25b,Male,Mutant,"[""5'11"", '180 cm']","['402 lb', '181 kg']",Blue,Blue
+6563a1ae3ef936792ce0c25c,Male,Human,"[""5'8"", '173 cm']","['150 lb', '68 kg']",Green,Green
+6563a1ae3ef936792ce0c25d,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c25e,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c25f,Male,unknown,"[""6'7"", '201 cm']","['480 lb', '216 kg']",-,No Hair
+6563a1ae3ef936792ce0c260,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c261,Female,New God,"[""6'2"", '188 cm']","['300 lb', '135 kg']",Blue,Black
+6563a1ae3ef936792ce0c262,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c263,Male,unknown,"[""5'5"", '165 cm']","['157 lb', '71 kg']",Blue,Brown
+6563a1ae3ef936792ce0c264,Male,Alpha,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1ae3ef936792ce0c265,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c266,Female,unknown,"[""5'11"", '180 cm']","['120 lb', '54 kg']",Blue,Blond
+6563a1af3ef936792ce0c267,Female,Cyborg,"['-', '0 cm']","['- lb', '0 kg']",Blue,Black
+6563a1af3ef936792ce0c268,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c269,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c26a,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c26b,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c26c,Male,Mutant,"[""6'6"", '198 cm']","['275 lb', '124 kg']",Brown,No Hair
+6563a1af3ef936792ce0c26d,Male,Bizarro,"[""6'3"", '191 cm']","['345 lb', '155 kg']",Black,Black
+6563a1af3ef936792ce0c26e,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Red,Black
+6563a1af3ef936792ce0c26f,Male,unknown,"[""6'3"", '191 cm']","['250 lb', '113 kg']",Brown,Black
+6563a1af3ef936792ce0c270,Male,Inhuman,"[""6'2"", '188 cm']","['210 lb', '95 kg']",Blue,Black
+6563a1af3ef936792ce0c271,Female,Metahuman,"[""5'7"", '170 cm']","['130 lb', '59 kg']",Blue,Blond
+6563a1af3ef936792ce0c272,Female,Human,"[""5'5"", '165 cm']","['128 lb', '58 kg']",Blue,Blond
+6563a1af3ef936792ce0c273,Female,Human,"[""5'10"", '178 cm']","['120 lb', '54 kg']",Green,Blond
+6563a1af3ef936792ce0c274,Male,God / Eternal,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c275,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c276,Male,Human,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Brown,Brown
+6563a1af3ef936792ce0c277,Male,unknown,"[""6'1"", '185 cm']","['200 lb', '90 kg']",Brown,No Hair
+6563a1af3ef936792ce0c278,Female,unknown,"[""5'7"", '170 cm']","['115 lb', '52 kg']",Green,Black
+6563a1af3ef936792ce0c279,Male,Human,"[""6'2"", '188 cm']","['205 lb', '92 kg']",Black,No Hair
+6563a1af3ef936792ce0c27a,Male,Human,"[""6'0"", '183 cm']","['200 lb', '90 kg']",Brown,Black
+6563a1af3ef936792ce0c27b,Female,Human,"[""5'7"", '170 cm']","['131 lb', '59 kg']",Green,Auburn
+6563a1af3ef936792ce0c27c,Female,unknown,"[""5'7'"", '170 cm']","['135 lb', '61 kg']",Blue,Blond
+6563a1af3ef936792ce0c27d,Male,Demon,"[""6'3"", '191 cm']","['230 lb', '104 kg']",Red,White
+6563a1af3ef936792ce0c27e,Male,unknown,"[""6'1"", '185 cm']","['190 lb', '86 kg']",Blue,Black
+6563a1af3ef936792ce0c27f,Male,Alien,"[""6'2"", '188 cm']","['195 lb', '88 kg']",Red,White
+6563a1af3ef936792ce0c280,Male,Vampire,"[""6'2"", '188 cm']","['215 lb', '97 kg']",Brown,Black
+6563a1af3ef936792ce0c281,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",Black,No Hair
+6563a1af3ef936792ce0c282,Female,unknown,"[""5'6"", '168 cm']","['152 lb', '68 kg']",-,-
+6563a1af3ef936792ce0c283,Female,Mutant,"[""5'5"", '165 cm']","['125 lb', '56 kg']",Green,Magenta
+6563a1af3ef936792ce0c284,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,Brown
+6563a1af3ef936792ce0c285,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c286,Male,unknown,"[""5'9"", '175 cm']","['170 lb', '77 kg']",Brown,Brown
+6563a1af3ef936792ce0c287,Male,unknown,"[""5'10"", '178 cm']","['510 lb', '230 kg']",Brown,Brown
+6563a1af3ef936792ce0c288,Female,Human,"[""7'2"", '218 cm']","['1100 lb', '495 kg']",Blue,Brown
+6563a1af3ef936792ce0c289,Male,Mutant,"['-', '0 cm']","['- lb', '0 kg']",Black,No Hair
+6563a1af3ef936792ce0c28a,Male,unknown,"[""100'0"", '30.5 meters']","['- lb', '0 kg']",White,No Hair
+6563a1af3ef936792ce0c28b,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",Blue,Brown
+6563a1af3ef936792ce0c28c,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c28d,Male,unknown,"[""6'0"", '183 cm']","['190 lb', '86 kg']",Blue,Brown
+6563a1af3ef936792ce0c28e,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",Brown,Black
+6563a1af3ef936792ce0c28f,Male,Human / Clone,"[""6'0"", '183 cm']","['- lb', '0 kg']",Brown,Black
+6563a1af3ef936792ce0c290,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c291,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c292,Female,Mutant,"[""5'5"", '165 cm']","['122 lb', '55 kg']",Blue,Blond
+6563a1af3ef936792ce0c293,Female,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c294,Male,Human,"[""6'5"", '196 cm']","['215 lb', '97 kg']",Blue,Blond
+6563a1af3ef936792ce0c295,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c296,-,unknown,"[""6'4"", '193 cm']","['245 lb', '110 kg']",Blue,Blond
+6563a1af3ef936792ce0c297,-,unknown,"['-', '0 cm']","['- lb', '0 kg']",Brown,Brown / Black
+6563a1af3ef936792ce0c298,Male,Android,"[""6'6"", '198 cm']","['300 lb', '135 kg']",Green,No Hair
+6563a1af3ef936792ce0c299,Male,unknown,"[""5'7"", '170 cm']","['135 lb', '61 kg']",Green,Blond
+6563a1af3ef936792ce0c29a,Male,Human,"[""6'0"", '183 cm']","['220 lb', '99 kg']",Brown,Brown / White
+6563a1af3ef936792ce0c29b,Male,Mutant,"[""6'4"", '193 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c29c,Female,Human,"[""5'2"", '157 cm']","['115 lb', '52 kg']",Green,Blond
+6563a1af3ef936792ce0c29d,Male,Human,"[""6'0"", '183 cm']","['200 lb', '90 kg']",blue,blond
+6563a1af3ef936792ce0c29e,Female,Human,"[""5'7"", '170 cm']","['130 lb', '59 kg']",Brown,Black
+6563a1af3ef936792ce0c29f,Male,unknown,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c2a0,Male,Human,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c2a1,Male,Mutant,"[""6'8"", '203 cm']","['350 lb', '158 kg']",Blue,White
+6563a1af3ef936792ce0c2a2,Female,unknown,"[""5'9"", '175 cm']","['165 lb', '74 kg']",Blue,Black
+6563a1af3ef936792ce0c2a3,Male,Alpha,"['-', '0 cm']","['- lb', '0 kg']",-,-
+6563a1af3ef936792ce0c2a4,Male,unknown,"[""6'0"", '183 cm']","['181 lb', '81 kg']",Blue,Blond
+6563a1af3ef936792ce0c2a5,Male,Human,"[""6'2"", '188 cm']","['240 lb', '108 kg']",blue,blond
+6563a1af3ef936792ce0c2a6,Male,Human / Radiation,"[""6'4"", '193 cm']","['200 lb', '90 kg']",Blue,Silver
+6563a1af3ef936792ce0c2a7,Male,Human,"[""6'6"", '198 cm']","['257 lb', '116 kg']",Blue,Blond
