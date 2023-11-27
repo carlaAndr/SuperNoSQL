@@ -4,11 +4,12 @@ services:
   my_python_app:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.dockerfile
     command: python SuperMongo2.py
     depends_on:
       - cassandra
       - neo4j
+      - mongo  # Agregado servicio de MongoDB
 
   cassandra:
     image: cassandra:latest
@@ -22,4 +23,9 @@ services:
       - "7687:7687"
     environment:
       NEO4J_AUTH: neo4j/password  # Configura las credenciales según sea necesario
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
 
