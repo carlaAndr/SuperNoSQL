@@ -27,5 +27,5 @@ def main():
                 query = load_csv(csv_file, node_label)
                 session.run(query)
                 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
