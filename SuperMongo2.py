@@ -8,8 +8,14 @@ import json
 token='6622488331213745'
 url= 'https://www.superheroapi.com/api.php/'+token
 
+
+try:
+    mongo_client = MongoClient("mongodb://supernosql-mongo-1:27017/")
+    print("Conexión exitosa a MongoDB")
+except Exception as e:
+    print(f"Error en la conexión a MongoDB: {e}")
 # Conexión a MongoDB
-mongo_client = pymongo.MongoClient("mongodb://localhost:27017/")
+
 super_db = mongo_client["super"]
 super_col = super_db["supers"]
 
