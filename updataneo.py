@@ -14,7 +14,7 @@ def main():
         return query
 
     # Load CSV files into Neo4j
-    csv_file =  'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/superheroes.csv'
+    csv_file = 'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/superheroes.csv'
     node_label = 'Superhero'
 
     with GraphDatabase.driver(uri, auth=(username, password)) as driver:
