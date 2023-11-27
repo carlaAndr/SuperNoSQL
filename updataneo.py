@@ -1,10 +1,6 @@
 from neo4j import GraphDatabase
-
-
-
-
 def main():
-        # Neo4j connection parameters
+    # Neo4j connection parameters
     uri = "bolt://localhost:7687"
     username = "neo4j"
     password = "12345678"
@@ -27,5 +23,5 @@ def main():
                 query = load_csv(csv_file, node_label)
                 session.run(query)
                 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
