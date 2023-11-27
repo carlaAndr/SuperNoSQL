@@ -1,21 +1,25 @@
-version: "3"
+version: '3'
 
 services:
-  doggo-service:
+  my_python_app:
     build:
       context: .
       dockerfile: Dockerfile
+    command: python SuperMongo2.py
     depends_on:
-      - mongo
+      - cassandra
+      - neo4j
+
+  cassandra:
+    image: cassandra:latest
+    ports:
+      - "9042:9042"
+
+  neo4j:
+    image: neo4j:latest
+    ports:
+      - "7474:7474"
+      - "7687:7687"
     environment:
-      - MONGO_URI=mongodb://mongo:27017/
-    networks:
-      - doggo-network
+      NEO4J_AUTH: neo4j/password  # Configura las credenciales según sea necesario
 
-  mongo:
-    image: mongo
-    networks:
-      - doggo-network
-
-networks:
-  doggo-network:

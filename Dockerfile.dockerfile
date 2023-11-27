@@ -1,10 +1,14 @@
-
+# Usa la imagen oficial de Python
 FROM python:3.9
 
+# Establece el directorio de trabajo en /app
 WORKDIR /app
 
-COPY . .
+# Copia el contenido local al contenedor en /app
+COPY . /app
 
-RUN pip install --no-cache-dir -r requirements.txt
+# Instala las dependencias si es necesario
+# RUN pip install -r requirements.txt
 
-CMD ["python", "DoggoMongo.py"]
+# Comando predeterminado para ejecutar tu script cuando se inicie el contenedor
+CMD ["python", "SuperMongo2.py"]
