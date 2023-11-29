@@ -18,14 +18,14 @@ Utilizando la API : Superhéroes
     docker compose up -d
    ```
 4. Ejecutar mongo
-    ```bash
-  docker exec -it supernosql-mongo-l mongosh
- ```
+   ```bash
+  docker exec -it supernosql-mongo-1 mongosh
+   ```
 5. Realizar las consultas (Se encuentren en Queries).
 6. Ejecutar Cassandra con el comando
    ```bash
- #Inserten comandos
- ```
+  #Inserten comandos
+  ```
 6. Ejecutar Neo 4J con el comando
    ```bash
  #Inserten comandos
