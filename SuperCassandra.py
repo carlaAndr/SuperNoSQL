@@ -11,7 +11,7 @@ import os
 import time
 
 
-time.sleep(5)  # Pausa la ejecución por 5 segundos
+time.sleep(50)  # Pausa la ejecución por 50 segundos para que Cassandra termine de inicializarse
 # Conectando con el servidor de MongoDB
 mongo_client = pymongo.MongoClient("mongodb://supernosql-mongo-1:27017/")
 super_db = mongo_client["super"]
