@@ -29,4 +29,3 @@ services:
     image: mongo:latest
     ports:
       - "27017:27017"
-
