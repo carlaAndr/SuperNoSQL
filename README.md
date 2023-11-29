@@ -25,14 +25,13 @@ Utilizando la API : Superhéroes
 5. Realizar las consultas (Se encuentren en Queries).
 
 6. Ejecutar Cassandra con el comando
-
   ```bash
-  #Inserten comandos
+  #Comando para ejecutar Cassandra
   ```
 7. Ejecutar Neo 4J con el comando
    ```bash
- #Inserten comandos
-   ```
+  #Comando para ejecutar Cassandra
+  ```
    
  
 
