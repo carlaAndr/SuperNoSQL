@@ -4,7 +4,6 @@ import pymongo
 from pymongo import MongoClient
 import json
 from cassandra.cluster import Cluster
-import docker
 import tarfile
 import csv
 import re
