@@ -11,4 +11,4 @@ COPY . /app
 RUN pip install -r requirements.txt
 
 # Comando predeterminado para ejecutar tu script cuando se inicie el contenedor
-CMD ["python", "SuperMongo2.py", "&&", "python", "updataneo.py"]
+CMD ["python", "SuperMongo2.py", "&&", "python", "updataneo.py","&&", "python", "SuperCassandra.py"]
