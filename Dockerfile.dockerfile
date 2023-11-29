@@ -8,7 +8,8 @@ WORKDIR /app
 COPY . /app
 
 # Instala las dependencias si es necesario
-# RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt
 
-# Comando predeterminado para ejecutar tu script cuando se inicie el contenedor
-CMD ["python", "SuperMongo2.py", "python", "neo4j.py"]
+# Comando predeterminado para ejecutar tus scripts cuando se inicie el contenedor
+CMD ["python", "SuperMongo2.py", "neo4j.py"]
+
