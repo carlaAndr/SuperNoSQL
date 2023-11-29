@@ -14,13 +14,14 @@ Utilizando la API : Superhéroes
 1. Clonar el repo.
 2. Posicionarse en ese directorio.
 3. Correr el comando
-    ```bash
-    docker compose up -d
-   ```
+     ```bash
+  docker compose up -d
+  ```
 4. Ejecutar mongo
-   ```bash
+```bash
   docker exec -it supernosql-mongo-1 mongosh
-   ```
+  ```
+   
 5. Realizar las consultas (Se encuentren en Queries).
 
 6. Ejecutar Cassandra con el comando
