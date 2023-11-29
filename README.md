@@ -14,11 +14,11 @@ Utilizando la API : Superhéroes
 1. Clonar el repo.
 2. Posicionarse en ese directorio.
 3. Correr el comando
-     ```bash
+  ```bash
   docker compose up -d
   ```
 4. Ejecutar mongo
-```bash
+  ```bash
   docker exec -it supernosql-mongo-1 mongosh
   ```
    
