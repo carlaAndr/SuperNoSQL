@@ -13,7 +13,11 @@ Utilizando la API : Superhéroes
 ## ¿Cómo utilizarla?
 1. Clonar el repo.
 2. Posicionarse en ese directorio.
-3. Correr el comando
+3. Descarga los CSV al mismo directorio (los quitamos de Git para que fuera más ligero)
+  ```bash
+  https://itam2-my.sharepoint.com/:f:/g/personal/csosaper_itam_mx/EuiY9jdQ0e9Lm2R2HQC9xoEBWzgDw7w6Fbqpp4YBBYd_3A?e=9GAthD
+  ```
+5. Correr el comando
   ```bash
   docker compose up -d
   ```
