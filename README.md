@@ -55,6 +55,7 @@ Utilizamos la API : Superhéroes
   ```
 4. Ejecutar mongo
   ```bash
+  #Comando para ejecutar Cassandra
   docker exec -it supernosql-mongo-1 mongosh
   use super
   ```
