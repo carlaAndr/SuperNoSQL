@@ -56,6 +56,7 @@ Utilizamos la API : Superhéroes
 4. Ejecutar mongo
   ```bash
   docker exec -it supernosql-mongo-1 mongosh
+  use super
   ```
    
 5. Realizar las consultas (Se encuentren en Queries Final para MongoDB).
