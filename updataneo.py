@@ -46,12 +46,14 @@ def main():
     node_labels = ['Appearance', 'Biography', 'Character', 'Connections', 'Image', 'Powerstats', 'Work']
 
     with GraphDatabase.driver(uri, auth=(username, password)) as driver:
+        print("Loading data into Neo4j...")
         for csv_file, node_label in zip(csv_files, node_labels):
             with driver.session() as session:
                 query = load_csv(csv_file, node_label)
                 session.run(query)
                 for i in column_list:
                     session.run(setRel(i))
+        print("Data loaded successfully")
                 
 if __name__ == "__main__":
     main()
