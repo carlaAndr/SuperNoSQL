@@ -7,9 +7,9 @@ Proyecto Otoño 2023
 
 Carla Andrea Sosa Peralta 200035
 
-Santiago Villaseñor Ramírez
+Santiago Villaseñor Ramírez 201427
 
-Santiago Olvera Moreno
+Santiago Olvera Moreno 194701
 
 # Objetivo
 
