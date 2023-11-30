@@ -3,15 +3,44 @@ Proyecto Otoño 2023
 
 ![Superhéroe](super.jpg)
 
-Utilizando la API : Superhéroes
+# Equipo 
+
+Carla
+
+Santiago
+
+Santiago Olvera Moreno
+
+# Objetivo
+
+Que los alumnos muestren el entendimiento y capacidad de manejo de las diferentes bases de datos que vimos en el semestre, así como los conceptos relacionados con API's, ETL's, etc.
+
+# Planteamiento
+
+Buscar alguna API que llame la atención al equipo, con esta API, conectarla através de python con una base de datos MongoDB. Posteriormente, hacer un ETL que cargue la base de datos procesada  a una base de datos estilo grafo y una base columnar; evidentemente las transformaciones y los subconjuntos de datos ocupados serán diferentes para cada base de datos ya que tienen fines diferentes cada una.
+
+# Implementacion
+
+* API usada
+
+Utilizamos la API : Superhéroes
  ```bash
-  https://www.superheroapi.com/api.php/
+  https://superheroapi.com
  ```
-1. La API se vacía en un Datalake en Mongo.
+* Extracción y Load en Mongo (SuperMongo2.py)
+1.- Utilzamos la libreria request para conectamos al API usando un private key que esta en el archivo de python.
+2.- Extrajimos de froma local un json de la información, nos conectamos al contenedor de Mongo y vaciamos los datos en la colección llamada super_col.
+
+* Extract Transform y Load en Cassandra (
+1.- Ya que la base datos estuviera en Mongo DB, nos conectamos al puerto de del contenedor de Mongo y extrajimos la bse datos que contenia.
+2.- Estandarizamos los datos para que no hubiera datos tipo null, '-' o vacios.Y los remplazamos por un valor numérico de 0 o con el lable de 'Unknown en caso de ser necesario.
+3.- Eliminamos las columnas que contenian mucho texto, como lo son 'connections.group-affiliation' y 'connections.relatives'. También eliminamos columnas que no nos proporcionaban información como la de 'image.url'
+4.- Cambiamos los nombres de la columnas de 'powerstats.intelligence' a 'Intelligence. Esto para que pudiera ser más fácil la lectura.
+5.- Por último, nos conectamos al contenedor de cassandra y vaciamos la base de datos usando el Key de supers y nombrando a la tabla columnar superheros.
+
    
-2. Se transforma la base de datos a Cassandra.
+* Extract Transform y Load en Neo4J
   
-3. Se crea un grafo en Neo4J.
 
 ## ¿Cómo utilizarla?
 1. Clonar el repo.
@@ -29,7 +58,7 @@ Utilizando la API : Superhéroes
   docker exec -it supernosql-mongo-1 mongosh
   ```
    
-5. Realizar las consultas (Se encuentren en Queries).
+5. Realizar las consultas (Se encuentren en Queries Final para MongoDB).
 
 6. Ejecutar Cassandra con el comando
   ```bash
@@ -38,11 +67,13 @@ Utilizando la API : Superhéroes
   #Entra a la base de datos
   use supers;
   ```
+7. Realizar las consultas (Se encuentren en Queries Final para Cassandra).
 
-7. Ejecutar Neo 4J con el comando en un buscador (TARDA)
+8. Ejecutar Neo 4J con el comando en un buscador (TARDA)
   ```bash
 localhost:7474  
   ```
+9. Realizar las consultas (Se encuentren en Queries Final para Neo4j).
    
  
 
