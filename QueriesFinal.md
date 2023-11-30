@@ -84,9 +84,28 @@ db.supers.aggregate([
   ```
 
 ## Cassandra
+
+¿Quiénes son los villanos mas peligrosos? Es decir, villanos que superan al promedio de inteligencia y fuerza de los que son buenos
  ```bash
-  #Inserta las consultas de Cassandra
+  SELECT AVG(intelligence) AS avg_intelligence FROM superheros  WHERE alignment ='Good' ALLOW FILTERING;
+
+  SELECT AVG(strength) AS avg_strength FROM superheros WHERE alignment ='Good' ALLOW FILTERING;
+
+  SELECT name, intelligence, strength, alignment FROM superheros WHERE intelligence > 29 AND strength > 44 AND alignment = 'Bad' ALLOW FILTERING;
   ```
+¿Quién ganaría una pelea entre DC y Marvel? Es decir, en promedio de sus stats quien tiene un promedio mas alto.
+```bash
+  SELECT publisher, (AVG(combat) + AVG(durability) + AVG(intelligence) + AVG(power) + AVG(speed) + AVG(strength)) / 6 AS avg_values FROM superheros WHERE publisher =  'Marvel comics' ALLOW FILTERING;
+
+  SELECT publisher, (AVG(combat) + AVG(durability) + AVG(intelligence) + AVG(power) + AVG(speed) + AVG(strength)) / 6 AS avg_values FROM superheros WHERE publisher = 'Dc comics' ALLOW FILTERING;
+  ```
+¿Entre mujeres y hombres humanos quién en promedio es mas alto?
+```bash
+  SELECT gender, AVG(height) AS average_height FROM superheros WHERE race = 'Human' AND gender = 'Female' ALLOW FILTERING;
+
+  SELECT gender, AVG(height) AS average_height FROM superheros WHERE race = 'Human' AND gender = 'Male' ALLOW FILTERING;
+  ```
+
 ## Neo4J
 
 ```bash
