@@ -49,38 +49,34 @@ Utilizamos la API : Superhéroes
 # ¿Cómo utilizarla?
 1. Clonar el repo.
 2. Posicionarse en ese directorio.
-3. Descarga los CSV al mismo directorio (los quitamos de Git para que fuera más ligero)
-  ```bash
-  https://itam2-my.sharepoint.com/:f:/g/personal/csosaper_itam_mx/EuiY9jdQ0e9Lm2R2HQC9xoEBWzgDw7w6Fbqpp4YBBYd_3A?e=9GAthD
-  ```
-4. Correr el comando
+3. Correr el comando
   ```bash
   docker compose up -d
   ```
-5. Ejecutar mongo
+4. Ejecutar mongo
   ```bash
   docker exec -it supernosql-mongo-1 mongosh
   ```
    
-6. Realizar las consultas (Se encuentren en Queries Final para MongoDB).
+5. Realizar las consultas (Se encuentren en Queries Final para MongoDB).
 
-7. Ejecutar Cassandra con el comando
+6. Ejecutar Cassandra con el comando
   ```bash
   #Comando para ejecutar Cassandra
   docker exec -it supernosql-cassandra-1 cqlsh
   #Entra a la base de datos
   use supers;
   ```
-8. Realizar las consultas (Se encuentren en Queries Final para Cassandra).
+7. Realizar las consultas (Se encuentren en Queries Final para Cassandra).
 
-9. Ejecutar Neo 4J con el comando en un buscador (TARDA)
+8. Ejecutar Neo 4J con el comando en un buscador (TARDA)
   ```bash
 localhost:7474  
   ```
 user neo4j
 pasword 12345678
 
-10. Realizar las consultas (Se encuentren en Queries Final para Neo4j).
+9. Realizar las consultas (Se encuentren en Queries Final para Neo4j).
    
  
 
