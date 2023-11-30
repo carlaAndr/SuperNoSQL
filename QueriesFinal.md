@@ -108,6 +108,24 @@ db.supers.aggregate([
 
 ## Neo4J
 
+#Inserta las consultas de Neo4J
+Los superhéroes que tienen más o iugal a 80 de durabilidad y sea de Marvel Comics
 ```bash
-  #Inserta las consultas de Neo4J
+MATCH (c:Character)-[:HAS_POWERSTATS]->(p:Powerstats)
+MATCH (c:Character)-[:HAS_BIOGRAPHY]->(b:Biography)
+where p.`powerstats.power`>'80' AND b.`biography.publisher`= 'Marvel Comics'
+RETURN c.name AS heroName, p.`powerstats.power` AS heroPower, b.`biography.publisher` AS Publisher
 ```
+Se buscará los superhéroes que cumplan: durabilidad >=50 y tengan los ojos azules
+```bash
+MATCH (character:Character)-[:HAS_POWERSTATS]->(powerstats:Powerstats)
+MATCH (character:Character)-[:HAS_APPEARANCE]->(appearance:Appearance)
+where powerstats.`powerstats.durability`>='50' AND appearance.`appearance.eye-color`='Blue'
+RETURN character.name AS heroName, powerstats.`powerstats.durability` AS heroDurability, appearance.`appearance.eye-color` as heroEyeColor
+```
+Dar el número de superhéroes que tienen los ojos azules agrupados por quién lo publicó.
+```bash
+MATCH (c:Character)-[:HAS_APPEARANCE]->(a:Appearance)
+MATCH (c)-[:HAS_BIOGRAPHY]->(b:Biography)
+WHERE toLower(a.`appearance.eye-color`) = 'blue'
+RETURN b.`biography.publisher` AS comicBookPublisher, count(c) AS numberOfBlueEyedHeroes
