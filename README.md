@@ -5,7 +5,7 @@ Proyecto Otoño 2023
 
 # Equipo 
 
-Carla
+Carla Andrea Sosa Peralta 200035
 
 Santiago Villaseñor Ramírez
 
