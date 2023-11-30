@@ -108,7 +108,6 @@ db.supers.aggregate([
 
 ## Neo4J
 
-#Inserta las consultas de Neo4J
 Los superhéroes que tienen más o iugal a 80 de durabilidad y sea de Marvel Comics
 ```bash
 MATCH (c:Character)-[:HAS_POWERSTATS]->(p:Powerstats)
