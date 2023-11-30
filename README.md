@@ -35,7 +35,10 @@ Utilizando la API : Superhéroes
   ```bash
   #Comando para ejecutar Cassandra
   docker exec -it supernosql-cassandra-1 cqlsh
+  #Entra a la base de datos
+  use supers;
   ```
+
 7. Ejecutar Neo 4J con el comando en un buscador (TARDA)
   ```bash
 localhost:7474  
