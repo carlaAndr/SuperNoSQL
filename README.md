@@ -31,10 +31,12 @@ Utilizando la API : Superhéroes
 6. Ejecutar Cassandra con el comando
   ```bash
   #Comando para ejecutar Cassandra
+  docker exec -it supernosql-cassandra-1 cqlsh
   ```
-7. Ejecutar Neo 4J con el comando
+7. Ejecutar Neo 4J con el comando (TARDA)
   ```bash
   #Comando para ejecutar Neo 4J
+  
   ```
    
  
