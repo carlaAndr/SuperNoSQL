@@ -1,0 +1,305 @@
+_id,connections.group-affiliation,connections.relatives
+656188c917cbd6bc5d2d4072,"Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom","Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+656188c917cbd6bc5d2d4073,Bureau for Paranormal Research and Defense,"Edith Howard (wife, deceased)"
+656188c917cbd6bc5d2d4074,"Green Lantern Corps, Black Lantern Corps","Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+656188c917cbd6bc5d2d4075,"former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten","Nadia Dornova Blonsky (wife, separated)"
+656188c917cbd6bc5d2d4076,Cosmic Beings,"Eternity (""Father"")"
+656188c917cbd6bc5d2d4077,"Masters of Evil, Lethal Legion; formerly Worthy, Frightful Four: former agent of Loki and They Who Wield Power","Mary MacPherran (Titania) (wife); Jerry Sledge (son); Rockwell ""Rocky"" Davis (Hi-Llite) (cousin)"
+656188ca17cbd6bc5d2d4078,-,-
+656188ca17cbd6bc5d2d4079,"Omega Men, L.E.G.I.O.N., R.E.B.E.L.S., formerly Seven Soldiers of Victory","Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
+656188ca17cbd6bc5d2d407a,Agent of SHIELD.; former member of the Femme Force,"Harrison Carter (father), Amanda Carter (mother), Margaret ""Peggy"" Carter (sister)"
+656188ca17cbd6bc5d2d407b,"A.I.M., Deadpool; formerly Agency X, Hydra",Allison (ex-wife); Terry and Howie (sons)
+656188ca17cbd6bc5d2d407c,"Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington","Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
+656188ca17cbd6bc5d2d407d,"Former member of Nova Corps, Heralds of Galactus",-
+656188ca17cbd6bc5d2d407e,Formerly Weapon X,-
+656188ca17cbd6bc5d2d407f,Justice Society of America; Formerly Checkmate; the Sentinels of Magic; Formerly All-Star Squadron,"Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
+656188ca17cbd6bc5d2d4080,"Gentek, The Infected",Dana Mercer (sister)
+656188ca17cbd6bc5d2d4081,-,"Mr. Woolsly, Mrs. Woolsly, sister"
+656188ca17cbd6bc5d2d4082,"Batman Family, Outsiders","Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
+656188ca17cbd6bc5d2d4083,-,Alien Queen (mother)
+656188ca17cbd6bc5d2d4084,League of Extraordinary Gentlemen,-
+656188ca17cbd6bc5d2d4085,Formerly the Secret Society of Super Villains,"Professor Ivo (creator), Kid Amazo (cyborg offspring)"
+656188ca17cbd6bc5d2d4086,former leader of the Wildboys,-
+656188ca17cbd6bc5d2d4087,-,-
+656188ca17cbd6bc5d2d4088,-,"Kathy (sister), Connor (son), Twilight (""child"")"
+656188ca17cbd6bc5d2d4089,"X-Men, Mutantes Sans Fronti res, Hellfire Club; formerly Secret Defenders, X-Factor/X-Terminators, Horsemen of Apocalypse, Defenders, Death's champions, Champions of Los Angeles","Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram ""Burt"" Worthington (Dazzler, paternal uncle), unnamed cousin"
+656188ca17cbd6bc5d2d408a,-,-
+656188ca17cbd6bc5d2d408b,Formerly New Warriors; Special Class,Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;
+656188ca17cbd6bc5d2d408c,-,-
+656188ca17cbd6bc5d2d408d,"Formerly Animal Masters, Forgotten Heroes, Justice League of America, Justice League Europe","Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
+656188ca17cbd6bc5d2d408e,Sometime ally of Blastaar,Annihilus is a series of clonal scions
+656188ca17cbd6bc5d2d408f,"Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",-
+656188ca17cbd6bc5d2d4090,"Ant-Man Security Solutions; formerly Future Foundation (leader), Fantastic Four (leader), Defenders, Avengers, Heroes For Hire, Stark Industries","Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
+656188ca17cbd6bc5d2d4091,"Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons","Monitor (""brother""), The Monitors"
+656188ca17cbd6bc5d2d4092,-,-
+656188ca17cbd6bc5d2d4093,-,"Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Toxin Symbiote (current symbiote, former grandson), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
+656188ca17cbd6bc5d2d4094,"Clan Akkaba, employer of Apocalypse's Horsemen, Dark Riders, former employer of the Alliance of Evil, 198","Baal of the Crimson Sands (adopted father, deceased)"
+656188ca17cbd6bc5d2d4095,Aquaman Family,"Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
+656188ca17cbd6bc5d2d4096,"Aquaman Family; formerly Black Lantern Corps, Sentinels of Magic, Teen Titans","Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
+656188ca17cbd6bc5d2d4097,"Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.","Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+656188ca17cbd6bc5d2d4098,"Omega Flight, formerly Commission on Superhuman Activities , Freedom Force , Avengers , Secret Defenders , Force Works , Queen s Vengeance , West Coast Avengers, Secret Avengers (Civil War)","Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
+656188ca17cbd6bc5d2d4099,X-Men (founding member); X-Force; Mutantes Sans Fronti res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou,"Wallace Worthington (paternal ancestor, deceased), Warren Worthington Sr. (paternal grandfather, deceased), Warren Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burt Worthington (paternal uncle), Mimi (maternal aunt), unnamed distant cousin"
+656188ca17cbd6bc5d2d409a,"Marauders formerly, 198, Femizons",-
+656188ca17cbd6bc5d2d409b,-,"Norrin Radd (Silver Surfer, clonal source), Clea (creator)"
+656188ca17cbd6bc5d2d409c,"Avengers, Mighty Avengers, Olympic Pantheon; Warhawks","Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
+656188ca17cbd6bc5d2d409d,"X-Men, Formerly Fallen Angels",-
+656188ca17cbd6bc5d2d409e,"X-Men, formerly: Xavier Institute Student Body, New X-Men",-
+656188ca17cbd6bc5d2d409f,-,-
+656188ca17cbd6bc5d2d40a0,-,-
+656188ca17cbd6bc5d2d40a1,"Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi","Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
+656188ca17cbd6bc5d2d40a2,-,-
+656188ca17cbd6bc5d2d40a3,formerly Justice Society of America; formerly All-Star Squadron,"Mary James (wife, deceased), Grant Albert Emerson (Damage, son), Albert Rothstein (aka Nuklon / Atom-Smasher, godson)"
+656188ca17cbd6bc5d2d40a4,-,-
+656188ca17cbd6bc5d2d40a5,Legion of Super-Heroes,-
+656188ca17cbd6bc5d2d40a6,"Justice League of America, formerly; Suicide Squad, Teen Titans","Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
+656188ca17cbd6bc5d2d40a7,Suicide Squad,"Senator Cray (father, deceased)"
+656188ca17cbd6bc5d2d40a8,Lighter Than Air Society,Professor Choi (father); mother (deceased); sister (unnamed); Jia Choi (descendent).
+656188ca17cbd6bc5d2d40a9,"Alpha Flight, Alpha Flight (Space Program), Royal Canadian Mounted Police; formerly Weapon X, ally of the Havok's Brotherhood, Headbangers , Children of the Vault, X-Men (interim member)","Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)"
+656188ca17cbd6bc5d2d40aa,-,"Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
+656188ca17cbd6bc5d2d40ab,Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman,"Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
+656188ca17cbd6bc5d2d40ac,The Presence,-
+656188ca17cbd6bc5d2d40ad,"Suicide Squad, The Secret Society of Super Villains",King Snake (father)
+656188ca17cbd6bc5d2d40ae,"Currently X-Corps, formerly Generation X, Factor Three, X-Men","Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
+656188ca17cbd6bc5d2d40af,"Captain America, Pro-Registration forces",-
+656188ca17cbd6bc5d2d40b0,-,"James Gordon (father)   Barbara Eileen (mother)   James Gordon, Jr. (brother)"
+656188ca17cbd6bc5d2d40b1,Former associated partner of Batman and Robin of Earth-One; Partner of Katherine Kane,"Katherine Kane (Batwoman I,  Aunt)"
+656188ca17cbd6bc5d2d40b2,-,-
+656188ca17cbd6bc5d2d40b3,"Titans East, League of Assassins, Batman Family, Justice League Elite, Young Justice","David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
+656188ca17cbd6bc5d2d40b4,-,-
+656188ca17cbd6bc5d2d40b5,"The Batman Family, formerly the Birds of Prey, Tim Drake (on-and-off boyfriend)","Arthur Brown (The Cluemaster, father), Crystal Brown (mother), unnamed daughter (given up for adoption)"
+656188ca17cbd6bc5d2d40b6,"Batman Family, Justice League Unlimited","Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)"
+656188ca17cbd6bc5d2d40b7,"Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps","Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)
+Martha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+656188ca17cbd6bc5d2d40b8,"Justice League Of America, Batman Family","John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
+656188ca17cbd6bc5d2d40b9,"Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",-
+656188ca17cbd6bc5d2d40ba,"Batman Family (unofficially), D.E.O, Unknowns","Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth ""Bette"" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
+656188ca17cbd6bc5d2d40bb,"Formerly New Warriors, Exiles, Brotherhood Of Mutants, Xavier Institute Student Body","Charles (father), Kathy (mother), Angel Salvadore (wife), Tito (son), Axel (son), Kara (daughter), three unidentified children"
+656188ca17cbd6bc5d2d40bc,"Secret Avengers, S.W.O.R.D.; formerly X-Men (founding member); X-Club (founding member); Initiative; 198; X-Treme X-Men; Acolytes (while mind-controlled); Queen's Vengeance; X-Factor/X-Terminators (founding member); Rejects; Defenders, Avengers","Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
+656188ca17cbd6bc5d2d40bd,"Teen Titans; former member of the original Doom Patrol, Titans West","Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
+656188ca17cbd6bc5d2d40be,-,-
+656188ca17cbd6bc5d2d40bf,-,-
+656188ca17cbd6bc5d2d40c0,"ally of the Asgardians, Thor Corps, Star Masters",-
+656188ca17cbd6bc5d2d40c1,Was once in a merged form with the Molecule Man but is no longer merged with him.,-
+656188ca17cbd6bc5d2d40c2,"Apocalypse, New Gods, Birds of Prey, formerly Female Furies, formerly Justice League of America","Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
+656188ca17cbd6bc5d2d40c3,-,Hit-Girl (daughter)
+656188ca17cbd6bc5d2d40c4,"Daily Bugle, the Enforcers","Janice Foswell (daughter), unnamed wife"
+656188ca17cbd6bc5d2d40c5,Alphas,-
+656188ca17cbd6bc5d2d40c6,-,-
+656188ca17cbd6bc5d2d40c7,"currently Avengers, former companion to the X-Men (as Carol Danvers), former member of the Starjammers (as Binary), Former Avenger (as Ms. Marvel)","Joseph (father), Marie (mother), Steve (brother, deceased),"
+656188ca17cbd6bc5d2d40c8,-,-
+656188ca17cbd6bc5d2d40c9,"New Mutants, Ani-Mate",-
+656188ca17cbd6bc5d2d40ca,Ani-Men,-
+656188ca17cbd6bc5d2d40cb,Ani-Men,-
+656188ca17cbd6bc5d2d40cc,-,-
+656188ca17cbd6bc5d2d40cd,"""Clean City""; formerly Stryfe; X-Men; X.S.E. (Storm's team); X-Treme X-Men; X.S.E. (Hecate'e's team); The Twelve","Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
+656188ca17cbd6bc5d2d40ce,Superman Revenge Squad; Bizarros of Bizarro World; former associate of the Secret Society of Super-Villains; Joker League of Anarchy; former partner of Batzarro,"Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
+656188ca17cbd6bc5d2d40cf,-,-
+656188ca17cbd6bc5d2d40d0,"None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America","Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
+656188ca17cbd6bc5d2d40d1,Universal Inhumans; Inhuman Royal Family; formerly Illuminati,"Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
+656188ca17cbd6bc5d2d40d2,"Birds of Prey; formerly Justice League of America, Justice Society of America, Justice League Task Force, Justice League International, Team Arrow","Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
+656188ca17cbd6bc5d2d40d3,Justice Society of America,"Richard Drake (father), Lawrence Lance (husband), Dinah Laurel Lance (Black Canary, daughter), Oliver Queen (Green Arrow, son-in-law)"
+656188ca17cbd6bc5d2d40d4,Formerly Heroes for Hire,"Walter Hardy (father, deceased), Lydia Hardy (mother)"
+656188ca17cbd6bc5d2d40d5,-,-
+656188ca17cbd6bc5d2d40d6,-,-
+656188ca17cbd6bc5d2d40d7,"MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army","Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
+656188ca17cbd6bc5d2d40d8,"Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group","Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
+656188ca17cbd6bc5d2d40d9,"Serpent Squad, Serpent Society, BAD Girls",-
+656188ca17cbd6bc5d2d40da,-,-
+656188ca17cbd6bc5d2d40db,"Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier","Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T Chaka (father, deceased), S'Yan (uncle, deceased), N Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
+656188ca17cbd6bc5d2d40dc,"Secret Avengers; formerly Thunderbolts (as Yelena Belova), Nick Fury, Mighty Avengers, S.H.I.E.L.D., Avengers, Champions of Los Angeles, Lady Liberators, KGB, ""Marvel Knights"", partner of Daredevil, Hawkeye, Boris Turgenov, Logan","Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
+656188ca17cbd6bc5d2d40dd,-,-
+656188ca17cbd6bc5d2d40de,Lilin; Deathwatch; Hood's gang,Lilith (Great Grandmother)
+656188ca17cbd6bc5d2d40df,"Heavy Mettle; (formerly) Masters of Evil, Skeleton Crew, Circus of Crime; (formerly) division leader of Hydra","Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
+656188ca17cbd6bc5d2d40e0,Underground Legion,"Tantalus (father); Nirvana (mother); Pelops (brother, deceased)"
+656188ca17cbd6bc5d2d40e1,"Formerly Noah van Helsing's vampire hunters, Nightstalkers, Midnight Sons, the Nine, Quincy Harker's vampire hunters, Ogun Strong's vampire hunters, Bloodshadows gang",Tara Brooks (mother)
+656188ca17cbd6bc5d2d40e2,Clan Askani/Clan Chosen,-
+656188ca17cbd6bc5d2d40e3,-,"Roy ""Daddy Libido"" Washington (father), Angel ""Sexy Mutha"" Depres (mother)"
+656188ca17cbd6bc5d2d40e4,"New Mutants; formerly X-Men, Selene's Inner Circle","Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
+656188ca17cbd6bc5d2d40e5,"Former employee of Justin Hammer, partner of Blacklash and Melter",-
+656188ca17cbd6bc5d2d40e6,-,-
+656188ca17cbd6bc5d2d40e7,"Formerly Thunderbolts, Hammer Industries",-
+656188ca17cbd6bc5d2d40e8,"X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",-
+656188ca17cbd6bc5d2d40e9,-,-
+656188ca17cbd6bc5d2d40ea,"X-Peditioners, formerly X-Men, Halo City Protectorate, Oasis",-
+656188ca17cbd6bc5d2d40eb,-,-
+656188ca17cbd6bc5d2d40ec,-,Danielle Garrett (granddaughter)
+656188ca17cbd6bc5d2d40ed,-,-
+656188ca17cbd6bc5d2d40ee,Formerly Justice League of America; formerly the L.A.W.; formerly Super Buddies,Jarvis Kord (uncle)
+656188ca17cbd6bc5d2d40ef,"Justice League International,Posse; Teen Titans","Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
+656188ca17cbd6bc5d2d40f0,-,-
+656188ca17cbd6bc5d2d40f1,-,-
+656188ca17cbd6bc5d2d40f2,"Dictator of New Port City, The Four Queens",-
+656188ca17cbd6bc5d2d40f3,"Formerly Utopians, X-Men (New Charles Xavier School member), X-Force, X-Men, Nextwave, The Underground, Genoshan Mutates, New Mutants, X-Terminators (founding member), X-Factor (trainee), Fallen Angels, Beyonder (associate)",-
+656188ca17cbd6bc5d2d40f4,-,-
+656188ca17cbd6bc5d2d40f5,"Justice League International, Time Masters; formerly Conglomerate, Extreme Justice, Super Buddies","Jonar Carter (father), Ellen Carter (mother, deceased), Michelle Carter (aka Goldstar) (twin sister), Rip Hunter (son) · Rani (adopted daughter), Daniel Carter (21st century ancestor), Rose Levin (ancestor)"
+656188ca17cbd6bc5d2d40f6,-,-
+656188ca17cbd6bc5d2d40f7,Alpha Flight,No known relatives
+656188ca17cbd6bc5d2d40f8,"Alpha Flight, Gamma Flight, Zodiac, Team_Weapon_X","Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
+656188ca17cbd6bc5d2d40f9,Lex Luthor,"Vril Dox II (son), Brainiac 5 (descendant)"
+656188ca17cbd6bc5d2d40fa,Legion of Super-Heroes,"Unnamed mother, Brainiac (ancestor)"
+656188ca17cbd6bc5d2d40fb,-,"Daniel Drumm (brother deceased), Matilda Drumm (aunt)"
+656188ca17cbd6bc5d2d40fc,-,-
+656188ca17cbd6bc5d2d40fd,"Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council","Joyce Summers (mother, deceased) ; Hank Summers (father) ; Dawn Summers (sister) ; Celia (cousin, deceased) ; Arlene (aunt)"
+656188ca17cbd6bc5d2d40fe,"Formerly Dark Avengers, Thunderbolts, employee of Kingpin, Purple Man, Eric Slaughter, Mysterio; formerly US Army",Kingmaker (father)
+656188ca17cbd6bc5d2d40ff,"Doom Patrol, S.T.A.R. Labs, Formerly Teen Titans",Mal Duncan (husband)
+656188ca17cbd6bc5d2d4100,-,-
+656188ca17cbd6bc5d2d4101,Teen Titans,-
+656188ca17cbd6bc5d2d4102,"X-Force, (former) X-Men, Clan Askani, Clan Chosen, Six Pack (formerly Wild Pack II)","Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
+656188ca17cbd6bc5d2d4103,"Excalibur, Morlocks, Gene Nation",-
+656188ca17cbd6bc5d2d4104,Alphas,-
+656188ca17cbd6bc5d2d4105,"X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club","Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua ""Jay"" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
+656188ca17cbd6bc5d2d4106,"Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)","Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
+656188ca17cbd6bc5d2d4107,"Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force","Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
+656188ca17cbd6bc5d2d4108,"Braddock Academy, Captain Britain Corps, MI-13; formerly Excalibur, Hellfire Club (London Branch), Secret Avengers, Court of Otherworld, Knights of Pendragon's ally, Future Iron Man's Team","John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"
+6563a1ae3ef936792ce0c211,"Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom","Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+6563a1ae3ef936792ce0c212,Bureau for Paranormal Research and Defense,"Edith Howard (wife, deceased)"
+6563a1ae3ef936792ce0c213,"Green Lantern Corps, Black Lantern Corps","Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+6563a1ae3ef936792ce0c214,"former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten","Nadia Dornova Blonsky (wife, separated)"
+6563a1ae3ef936792ce0c215,Cosmic Beings,"Eternity (""Father"")"
+6563a1ae3ef936792ce0c216,"Masters of Evil, Lethal Legion; formerly Worthy, Frightful Four: former agent of Loki and They Who Wield Power","Mary MacPherran (Titania) (wife); Jerry Sledge (son); Rockwell ""Rocky"" Davis (Hi-Llite) (cousin)"
+6563a1ae3ef936792ce0c217,-,-
+6563a1ae3ef936792ce0c218,"Omega Men, L.E.G.I.O.N., R.E.B.E.L.S., formerly Seven Soldiers of Victory","Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
+6563a1ae3ef936792ce0c219,Agent of SHIELD.; former member of the Femme Force,"Harrison Carter (father), Amanda Carter (mother), Margaret ""Peggy"" Carter (sister)"
+6563a1ae3ef936792ce0c21a,"A.I.M., Deadpool; formerly Agency X, Hydra",Allison (ex-wife); Terry and Howie (sons)
+6563a1ae3ef936792ce0c21b,"Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington","Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
+6563a1ae3ef936792ce0c21c,"Former member of Nova Corps, Heralds of Galactus",-
+6563a1ae3ef936792ce0c21d,Formerly Weapon X,-
+6563a1ae3ef936792ce0c21e,Justice Society of America; Formerly Checkmate; the Sentinels of Magic; Formerly All-Star Squadron,"Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
+6563a1ae3ef936792ce0c21f,"Gentek, The Infected",Dana Mercer (sister)
+6563a1ae3ef936792ce0c220,-,"Mr. Woolsly, Mrs. Woolsly, sister"
+6563a1ae3ef936792ce0c221,"Batman Family, Outsiders","Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
+6563a1ae3ef936792ce0c222,-,Alien Queen (mother)
+6563a1ae3ef936792ce0c223,League of Extraordinary Gentlemen,-
+6563a1ae3ef936792ce0c224,Formerly the Secret Society of Super Villains,"Professor Ivo (creator), Kid Amazo (cyborg offspring)"
+6563a1ae3ef936792ce0c225,former leader of the Wildboys,-
+6563a1ae3ef936792ce0c226,-,-
+6563a1ae3ef936792ce0c227,-,"Kathy (sister), Connor (son), Twilight (""child"")"
+6563a1ae3ef936792ce0c228,"X-Men, Mutantes Sans Fronti res, Hellfire Club; formerly Secret Defenders, X-Factor/X-Terminators, Horsemen of Apocalypse, Defenders, Death's champions, Champions of Los Angeles","Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram ""Burt"" Worthington (Dazzler, paternal uncle), unnamed cousin"
+6563a1ae3ef936792ce0c229,-,-
+6563a1ae3ef936792ce0c22a,Formerly New Warriors; Special Class,Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;
+6563a1ae3ef936792ce0c22b,-,-
+6563a1ae3ef936792ce0c22c,"Formerly Animal Masters, Forgotten Heroes, Justice League of America, Justice League Europe","Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
+6563a1ae3ef936792ce0c22d,Sometime ally of Blastaar,Annihilus is a series of clonal scions
+6563a1ae3ef936792ce0c22e,"Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",-
+6563a1ae3ef936792ce0c22f,"Ant-Man Security Solutions; formerly Future Foundation (leader), Fantastic Four (leader), Defenders, Avengers, Heroes For Hire, Stark Industries","Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
+6563a1ae3ef936792ce0c230,"Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons","Monitor (""brother""), The Monitors"
+6563a1ae3ef936792ce0c231,-,-
+6563a1ae3ef936792ce0c232,-,"Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Toxin Symbiote (current symbiote, former grandson), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
+6563a1ae3ef936792ce0c233,"Clan Akkaba, employer of Apocalypse's Horsemen, Dark Riders, former employer of the Alliance of Evil, 198","Baal of the Crimson Sands (adopted father, deceased)"
+6563a1ae3ef936792ce0c234,Aquaman Family,"Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
+6563a1ae3ef936792ce0c235,"Aquaman Family; formerly Black Lantern Corps, Sentinels of Magic, Teen Titans","Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
+6563a1ae3ef936792ce0c236,"Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.","Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+6563a1ae3ef936792ce0c237,"Omega Flight, formerly Commission on Superhuman Activities , Freedom Force , Avengers , Secret Defenders , Force Works , Queen s Vengeance , West Coast Avengers, Secret Avengers (Civil War)","Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
+6563a1ae3ef936792ce0c238,X-Men (founding member); X-Force; Mutantes Sans Fronti res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou,"Wallace Worthington (paternal ancestor, deceased), Warren Worthington Sr. (paternal grandfather, deceased), Warren Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burt Worthington (paternal uncle), Mimi (maternal aunt), unnamed distant cousin"
+6563a1ae3ef936792ce0c239,"Marauders formerly, 198, Femizons",-
+6563a1ae3ef936792ce0c23a,-,"Norrin Radd (Silver Surfer, clonal source), Clea (creator)"
+6563a1ae3ef936792ce0c23b,"Avengers, Mighty Avengers, Olympic Pantheon; Warhawks","Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
+6563a1ae3ef936792ce0c23c,"X-Men, Formerly Fallen Angels",-
+6563a1ae3ef936792ce0c23d,"X-Men, formerly: Xavier Institute Student Body, New X-Men",-
+6563a1ae3ef936792ce0c23e,-,-
+6563a1ae3ef936792ce0c23f,-,-
+6563a1ae3ef936792ce0c240,"Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi","Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
+6563a1ae3ef936792ce0c241,-,-
+6563a1ae3ef936792ce0c242,formerly Justice Society of America; formerly All-Star Squadron,"Mary James (wife, deceased), Grant Albert Emerson (Damage, son), Albert Rothstein (aka Nuklon / Atom-Smasher, godson)"
+6563a1ae3ef936792ce0c243,-,-
+6563a1ae3ef936792ce0c244,Legion of Super-Heroes,-
+6563a1ae3ef936792ce0c245,"Justice League of America, formerly; Suicide Squad, Teen Titans","Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
+6563a1ae3ef936792ce0c246,Suicide Squad,"Senator Cray (father, deceased)"
+6563a1ae3ef936792ce0c247,Lighter Than Air Society,Professor Choi (father); mother (deceased); sister (unnamed); Jia Choi (descendent).
+6563a1ae3ef936792ce0c248,"Alpha Flight, Alpha Flight (Space Program), Royal Canadian Mounted Police; formerly Weapon X, ally of the Havok's Brotherhood, Headbangers , Children of the Vault, X-Men (interim member)","Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)"
+6563a1ae3ef936792ce0c249,-,"Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
+6563a1ae3ef936792ce0c24a,Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman,"Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
+6563a1ae3ef936792ce0c24b,The Presence,-
+6563a1ae3ef936792ce0c24c,"Suicide Squad, The Secret Society of Super Villains",King Snake (father)
+6563a1ae3ef936792ce0c24d,"Currently X-Corps, formerly Generation X, Factor Three, X-Men","Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
+6563a1ae3ef936792ce0c24e,"Captain America, Pro-Registration forces",-
+6563a1ae3ef936792ce0c24f,-,"James Gordon (father)   Barbara Eileen (mother)   James Gordon, Jr. (brother)"
+6563a1ae3ef936792ce0c250,Former associated partner of Batman and Robin of Earth-One; Partner of Katherine Kane,"Katherine Kane (Batwoman I,  Aunt)"
+6563a1ae3ef936792ce0c251,-,-
+6563a1ae3ef936792ce0c252,"Titans East, League of Assassins, Batman Family, Justice League Elite, Young Justice","David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
+6563a1ae3ef936792ce0c253,-,-
+6563a1ae3ef936792ce0c254,"The Batman Family, formerly the Birds of Prey, Tim Drake (on-and-off boyfriend)","Arthur Brown (The Cluemaster, father), Crystal Brown (mother), unnamed daughter (given up for adoption)"
+6563a1ae3ef936792ce0c255,"Batman Family, Justice League Unlimited","Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)"
+6563a1ae3ef936792ce0c256,"Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps","Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)
+Martha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+6563a1ae3ef936792ce0c257,"Justice League Of America, Batman Family","John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
+6563a1ae3ef936792ce0c258,"Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",-
+6563a1ae3ef936792ce0c259,"Batman Family (unofficially), D.E.O, Unknowns","Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth ""Bette"" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
+6563a1ae3ef936792ce0c25a,"Formerly New Warriors, Exiles, Brotherhood Of Mutants, Xavier Institute Student Body","Charles (father), Kathy (mother), Angel Salvadore (wife), Tito (son), Axel (son), Kara (daughter), three unidentified children"
+6563a1ae3ef936792ce0c25b,"Secret Avengers, S.W.O.R.D.; formerly X-Men (founding member); X-Club (founding member); Initiative; 198; X-Treme X-Men; Acolytes (while mind-controlled); Queen's Vengeance; X-Factor/X-Terminators (founding member); Rejects; Defenders, Avengers","Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
+6563a1ae3ef936792ce0c25c,"Teen Titans; former member of the original Doom Patrol, Titans West","Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
+6563a1ae3ef936792ce0c25d,-,-
+6563a1ae3ef936792ce0c25e,-,-
+6563a1ae3ef936792ce0c25f,"ally of the Asgardians, Thor Corps, Star Masters",-
+6563a1ae3ef936792ce0c260,Was once in a merged form with the Molecule Man but is no longer merged with him.,-
+6563a1ae3ef936792ce0c261,"Apocalypse, New Gods, Birds of Prey, formerly Female Furies, formerly Justice League of America","Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
+6563a1ae3ef936792ce0c262,-,Hit-Girl (daughter)
+6563a1ae3ef936792ce0c263,"Daily Bugle, the Enforcers","Janice Foswell (daughter), unnamed wife"
+6563a1ae3ef936792ce0c264,Alphas,-
+6563a1ae3ef936792ce0c265,-,-
+6563a1af3ef936792ce0c266,"currently Avengers, former companion to the X-Men (as Carol Danvers), former member of the Starjammers (as Binary), Former Avenger (as Ms. Marvel)","Joseph (father), Marie (mother), Steve (brother, deceased),"
+6563a1af3ef936792ce0c267,-,-
+6563a1af3ef936792ce0c268,"New Mutants, Ani-Mate",-
+6563a1af3ef936792ce0c269,Ani-Men,-
+6563a1af3ef936792ce0c26a,Ani-Men,-
+6563a1af3ef936792ce0c26b,-,-
+6563a1af3ef936792ce0c26c,"""Clean City""; formerly Stryfe; X-Men; X.S.E. (Storm's team); X-Treme X-Men; X.S.E. (Hecate'e's team); The Twelve","Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
+6563a1af3ef936792ce0c26d,Superman Revenge Squad; Bizarros of Bizarro World; former associate of the Secret Society of Super-Villains; Joker League of Anarchy; former partner of Batzarro,"Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
+6563a1af3ef936792ce0c26e,-,-
+6563a1af3ef936792ce0c26f,"None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America","Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
+6563a1af3ef936792ce0c270,Universal Inhumans; Inhuman Royal Family; formerly Illuminati,"Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
+6563a1af3ef936792ce0c271,"Birds of Prey; formerly Justice League of America, Justice Society of America, Justice League Task Force, Justice League International, Team Arrow","Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
+6563a1af3ef936792ce0c272,Justice Society of America,"Richard Drake (father), Lawrence Lance (husband), Dinah Laurel Lance (Black Canary, daughter), Oliver Queen (Green Arrow, son-in-law)"
+6563a1af3ef936792ce0c273,Formerly Heroes for Hire,"Walter Hardy (father, deceased), Lydia Hardy (mother)"
+6563a1af3ef936792ce0c274,-,-
+6563a1af3ef936792ce0c275,-,-
+6563a1af3ef936792ce0c276,"MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army","Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
+6563a1af3ef936792ce0c277,"Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group","Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
+6563a1af3ef936792ce0c278,"Serpent Squad, Serpent Society, BAD Girls",-
+6563a1af3ef936792ce0c279,-,-
+6563a1af3ef936792ce0c27a,"Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier","Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T Chaka (father, deceased), S'Yan (uncle, deceased), N Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
+6563a1af3ef936792ce0c27b,"Secret Avengers; formerly Thunderbolts (as Yelena Belova), Nick Fury, Mighty Avengers, S.H.I.E.L.D., Avengers, Champions of Los Angeles, Lady Liberators, KGB, ""Marvel Knights"", partner of Daredevil, Hawkeye, Boris Turgenov, Logan","Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
+6563a1af3ef936792ce0c27c,-,-
+6563a1af3ef936792ce0c27d,Lilin; Deathwatch; Hood's gang,Lilith (Great Grandmother)
+6563a1af3ef936792ce0c27e,"Heavy Mettle; (formerly) Masters of Evil, Skeleton Crew, Circus of Crime; (formerly) division leader of Hydra","Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
+6563a1af3ef936792ce0c27f,Underground Legion,"Tantalus (father); Nirvana (mother); Pelops (brother, deceased)"
+6563a1af3ef936792ce0c280,"Formerly Noah van Helsing's vampire hunters, Nightstalkers, Midnight Sons, the Nine, Quincy Harker's vampire hunters, Ogun Strong's vampire hunters, Bloodshadows gang",Tara Brooks (mother)
+6563a1af3ef936792ce0c281,Clan Askani/Clan Chosen,-
+6563a1af3ef936792ce0c282,-,"Roy ""Daddy Libido"" Washington (father), Angel ""Sexy Mutha"" Depres (mother)"
+6563a1af3ef936792ce0c283,"New Mutants; formerly X-Men, Selene's Inner Circle","Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
+6563a1af3ef936792ce0c284,"Former employee of Justin Hammer, partner of Blacklash and Melter",-
+6563a1af3ef936792ce0c285,-,-
+6563a1af3ef936792ce0c286,"Formerly Thunderbolts, Hammer Industries",-
+6563a1af3ef936792ce0c287,"X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",-
+6563a1af3ef936792ce0c288,-,-
+6563a1af3ef936792ce0c289,"X-Peditioners, formerly X-Men, Halo City Protectorate, Oasis",-
+6563a1af3ef936792ce0c28a,-,-
+6563a1af3ef936792ce0c28b,-,Danielle Garrett (granddaughter)
+6563a1af3ef936792ce0c28c,-,-
+6563a1af3ef936792ce0c28d,Formerly Justice League of America; formerly the L.A.W.; formerly Super Buddies,Jarvis Kord (uncle)
+6563a1af3ef936792ce0c28e,"Justice League International,Posse; Teen Titans","Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
+6563a1af3ef936792ce0c28f,-,-
+6563a1af3ef936792ce0c290,-,-
+6563a1af3ef936792ce0c291,"Dictator of New Port City, The Four Queens",-
+6563a1af3ef936792ce0c292,"Formerly Utopians, X-Men (New Charles Xavier School member), X-Force, X-Men, Nextwave, The Underground, Genoshan Mutates, New Mutants, X-Terminators (founding member), X-Factor (trainee), Fallen Angels, Beyonder (associate)",-
+6563a1af3ef936792ce0c293,-,-
+6563a1af3ef936792ce0c294,"Justice League International, Time Masters; formerly Conglomerate, Extreme Justice, Super Buddies","Jonar Carter (father), Ellen Carter (mother, deceased), Michelle Carter (aka Goldstar) (twin sister), Rip Hunter (son) · Rani (adopted daughter), Daniel Carter (21st century ancestor), Rose Levin (ancestor)"
+6563a1af3ef936792ce0c295,-,-
+6563a1af3ef936792ce0c296,Alpha Flight,No known relatives
+6563a1af3ef936792ce0c297,"Alpha Flight, Gamma Flight, Zodiac, Team_Weapon_X","Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
+6563a1af3ef936792ce0c298,Lex Luthor,"Vril Dox II (son), Brainiac 5 (descendant)"
+6563a1af3ef936792ce0c299,Legion of Super-Heroes,"Unnamed mother, Brainiac (ancestor)"
+6563a1af3ef936792ce0c29a,-,"Daniel Drumm (brother deceased), Matilda Drumm (aunt)"
+6563a1af3ef936792ce0c29b,-,-
+6563a1af3ef936792ce0c29c,"Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council","Joyce Summers (mother, deceased) ; Hank Summers (father) ; Dawn Summers (sister) ; Celia (cousin, deceased) ; Arlene (aunt)"
+6563a1af3ef936792ce0c29d,"Formerly Dark Avengers, Thunderbolts, employee of Kingpin, Purple Man, Eric Slaughter, Mysterio; formerly US Army",Kingmaker (father)
+6563a1af3ef936792ce0c29e,"Doom Patrol, S.T.A.R. Labs, Formerly Teen Titans",Mal Duncan (husband)
+6563a1af3ef936792ce0c29f,-,-
+6563a1af3ef936792ce0c2a0,Teen Titans,-
+6563a1af3ef936792ce0c2a1,"X-Force, (former) X-Men, Clan Askani, Clan Chosen, Six Pack (formerly Wild Pack II)","Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
+6563a1af3ef936792ce0c2a2,"Excalibur, Morlocks, Gene Nation",-
+6563a1af3ef936792ce0c2a3,Alphas,-
+6563a1af3ef936792ce0c2a4,"X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club","Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua ""Jay"" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
+6563a1af3ef936792ce0c2a5,"Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)","Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
+6563a1af3ef936792ce0c2a6,"Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force","Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
+6563a1af3ef936792ce0c2a7,"Braddock Academy, Captain Britain Corps, MI-13; formerly Excalibur, Hellfire Club (London Branch), Secret Avengers, Court of Otherworld, Knights of Pendragon's ally, Future Iron Man's Team","John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"

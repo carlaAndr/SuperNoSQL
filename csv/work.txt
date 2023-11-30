@@ -1,0 +1,303 @@
+_id,work.occupation,work.base
+656188c917cbd6bc5d2d4072,"Musician, adventurer, author; formerly talk show host",-
+656188c917cbd6bc5d2d4073,Paranormal Investigator,-
+656188c917cbd6bc5d2d4074,"Green Lantern, former history professor",Oa
+656188c917cbd6bc5d2d4075,Ex-Spy,Mobile
+656188c917cbd6bc5d2d4076,Dimensional destroyer,-
+656188c917cbd6bc5d2d4077,Professional criminal; former professional boxer,-
+656188ca17cbd6bc5d2d4078,"former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army","U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+656188ca17cbd6bc5d2d4079,"Adventurer, archaelogist, ambassador","Rann, Alpha Centauri System"
+656188ca17cbd6bc5d2d407a,Agent of SHIELD,"S.H.I.E.L.D. Headquarters, New York City"
+656188ca17cbd6bc5d2d407b,"Mercenary, janitor; former pirate, terrorist","Mobile; formerly Manhattan, Hellcarrier"
+656188ca17cbd6bc5d2d407c,"Mercenary, former government operative, freedom fighter",-
+656188ca17cbd6bc5d2d407d,"Former starship captain, Herald of Galactus",-
+656188ca17cbd6bc5d2d407e,-,-
+656188ca17cbd6bc5d2d407f,-,Gotham City and New York City; Formerly Capitol City
+656188ca17cbd6bc5d2d4080,-,-
+656188ca17cbd6bc5d2d4081,Employee at Sam's Comics,"Costa Verde, CA"
+656188ca17cbd6bc5d2d4082,"Butler; Caretaker, former Actor; Field Medic; Government Agent",Wayne Manor; Batcave; Gotham City
+656188ca17cbd6bc5d2d4083,-,-
+656188ca17cbd6bc5d2d4084,(former) hunter; (current) agent of the British government,"The Secret Wing of the British Museum, London"
+656188ca17cbd6bc5d2d4085,-,-
+656188ca17cbd6bc5d2d4086,"Gang leader , criminal , former soldier",New York City
+656188ca17cbd6bc5d2d4087,Yamagato Industries computer programmer,-
+656188ca17cbd6bc5d2d4088,-,-
+656188ca17cbd6bc5d2d4089,"Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",-
+656188ca17cbd6bc5d2d408a,-,"Chicago, Illinois"
+656188ca17cbd6bc5d2d408b,-,-
+656188ca17cbd6bc5d2d408c,-,-
+656188ca17cbd6bc5d2d408d,-,"San Diego, California"
+656188ca17cbd6bc5d2d408e,"Conqueror, scavenger",-
+656188ca17cbd6bc5d2d408f,"Adventurer, Biochemist, former manager of Avengers Compound","Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+656188ca17cbd6bc5d2d4090,"Electronics Technician,","South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York"
+656188ca17cbd6bc5d2d4091,-,"Qward, Antimatter Universe"
+656188ca17cbd6bc5d2d4092,-,-
+656188ca17cbd6bc5d2d4093,Vigilante; former journalist for the Daily Globe,"New York, New York"
+656188ca17cbd6bc5d2d4094,Student; formerly Conqueror; Scientist,"Celestial Ship, mobile"
+656188ca17cbd6bc5d2d4095,-,Atlantis
+656188ca17cbd6bc5d2d4096,"Adventurer; Magician, former Sidekick",Atlantis
+656188ca17cbd6bc5d2d4097,"Protector of the Seas and Oceans, King of Poseidonis","Atlantean Royal Palace; Poseidonis, Atlantis"
+656188ca17cbd6bc5d2d4098,"Adventurer, fugitive, former government agent","Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
+656188ca17cbd6bc5d2d4099,"Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",-
+656188ca17cbd6bc5d2d409a,Terrorist,-
+656188ca17cbd6bc5d2d409b,-,-
+656188ca17cbd6bc5d2d409c,-,"Avengers Tower, formerly Olympus"
+656188ca17cbd6bc5d2d409d,"Leader, refugee alien; former alien mutant-hunter and hedonist",-
+656188ca17cbd6bc5d2d409e,"Adventurer, student",-
+656188ca17cbd6bc5d2d409f,-,-
+656188ca17cbd6bc5d2d40a0,-,-
+656188ca17cbd6bc5d2d40a1,"Adventurer; former professional criminal, mercenary, dock worker, soldier",-
+656188ca17cbd6bc5d2d40a2,-,"Formely; Hyssa, Metropolis"
+656188ca17cbd6bc5d2d40a3,"Adventurer, Retired Professor of Nuclear Physics","GBS Building, Gotham City (former) Calvin College on Earth-Two"
+656188ca17cbd6bc5d2d40a4,-,-
+656188ca17cbd6bc5d2d40a5,-,"United Planets, 31st century"
+656188ca17cbd6bc5d2d40a6,Physics Professor,Ivy Town
+656188ca17cbd6bc5d2d40a7,-,-
+656188ca17cbd6bc5d2d40a8,Professor of nuclear physics at Ivy University,Ivy Town
+656188ca17cbd6bc5d2d40a9,"Adventurer; former terrorist, nun, history/geography teacher","Laval, Quebec, Canada"
+656188ca17cbd6bc5d2d40aa,Leader of the Neyaphem,"Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
+656188ca17cbd6bc5d2d40ab,"Former Police Officer, vigilante",-
+656188ca17cbd6bc5d2d40ac,-,-
+656188ca17cbd6bc5d2d40ad,-,Santa Prisca
+656188ca17cbd6bc5d2d40ae,"Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor","Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
+656188ca17cbd6bc5d2d40af,"Adventurer, boxing trainer, former boxer",-
+656188ca17cbd6bc5d2d40b0,-,"Gotham City, formerly Metropolis, Platinum Flats"
+656188ca17cbd6bc5d2d40b1,Crime-fighter,Gotham City
+656188ca17cbd6bc5d2d40b2,-,-
+656188ca17cbd6bc5d2d40b3,-,Gotham City; Bl dhaven; Tibet; New York City
+656188ca17cbd6bc5d2d40b4,-,-
+656188ca17cbd6bc5d2d40b5,College student at Gotham University,"Gotham Heights, Gotham City"
+656188ca17cbd6bc5d2d40b6,-,21st Century Gotham City
+656188ca17cbd6bc5d2d40b7,Businessman,"Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+656188ca17cbd6bc5d2d40b8,-,"Gotham City; formerly Bludhaven, New York City"
+656188ca17cbd6bc5d2d40b9,"Former wrestler, federal operative",-
+656188ca17cbd6bc5d2d40ba,-,Gotham City
+656188ca17cbd6bc5d2d40bb,-,-
+656188ca17cbd6bc5d2d40bc,"Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler","Xavier Institute, Salem Center, Westchester County, New York"
+656188ca17cbd6bc5d2d40bd,"Adventurer, Struggling Actor","Prague; formerly Hollywood, California; formerly Manhattan, New York"
+656188ca17cbd6bc5d2d40be,-,-
+656188ca17cbd6bc5d2d40bf,-,-
+656188ca17cbd6bc5d2d40c0,Guardian of the Korbinite race,"currently New York City, formerly Asgard, formerly the fleet of Korbinite ships."
+656188ca17cbd6bc5d2d40c1,Former student,-
+656188ca17cbd6bc5d2d40c2,-,"Gotham City, New Genesis, formerly Apokolips"
+656188ca17cbd6bc5d2d40c3,-,-
+656188ca17cbd6bc5d2d40c4,"Reporter, professional criminal",-
+656188ca17cbd6bc5d2d40c5,-,-
+656188ca17cbd6bc5d2d40c6,-,-
+656188ca17cbd6bc5d2d40c7,"Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.",Avengers Mansion
+656188ca17cbd6bc5d2d40c8,-,-
+656188ca17cbd6bc5d2d40c9,-,-
+656188ca17cbd6bc5d2d40ca,-,-
+656188ca17cbd6bc5d2d40cb,-,-
+656188ca17cbd6bc5d2d40cc,-,-
+656188ca17cbd6bc5d2d40cd,"(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)","Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
+656188ca17cbd6bc5d2d40ce,-,Bizarro World
+656188ca17cbd6bc5d2d40cf,"Cult leader, former monk",-
+656188ca17cbd6bc5d2d40d0,-,Mobile; Formerly Kahndaq; Fawcett City; New York City
+656188ca17cbd6bc5d2d40d1,King of the Inhumans,"Attilan, Blue Area of the Moon"
+656188ca17cbd6bc5d2d40d2,"Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor","Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
+656188ca17cbd6bc5d2d40d3,"Florist, former private investigator","Gotham City, Park City"
+656188ca17cbd6bc5d2d40d4,"Cat burglar; Private investigator, founder of Cat's Eye Investigations.",-
+656188ca17cbd6bc5d2d40d5,-,-
+656188ca17cbd6bc5d2d40d6,-,-
+656188ca17cbd6bc5d2d40d7,"Adventurer, scientist; former crusader",-
+656188ca17cbd6bc5d2d40d8,"Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.","Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
+656188ca17cbd6bc5d2d40d9,"Mercenary, professional criminal, former call girl","Mobile, formerly Serpent Citadel"
+656188ca17cbd6bc5d2d40da,-,-
+656188ca17cbd6bc5d2d40db,"King and Chieftain of Wakanda, scientist; former school teacher","Wakanda, Mobile"
+656188ca17cbd6bc5d2d40dc,"Adventurer, Intelligence agent, former ballerina",Mobile
+656188ca17cbd6bc5d2d40dd,-,-
+656188ca17cbd6bc5d2d40de,"Assassin, enforcer",-
+656188ca17cbd6bc5d2d40df,-,-
+656188ca17cbd6bc5d2d40e0,Freedom Fighter,-
+656188ca17cbd6bc5d2d40e1,"Vampire hunter, former private investigator.",Mobile
+656188ca17cbd6bc5d2d40e2,Inventor,"Baltimore, Maryland"
+656188ca17cbd6bc5d2d40e3,-,"Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
+656188ca17cbd6bc5d2d40e4,"Adventurer, freedom fighter","Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Black Rome, Necrosha"
+656188ca17cbd6bc5d2d40e5,"Professional criminal, mercenary, engineer, former scientist","New York City, New York"
+656188ca17cbd6bc5d2d40e6,-,-
+656188ca17cbd6bc5d2d40e7,Adventurer; former mercenary and professional criminal,-
+656188ca17cbd6bc5d2d40e8,"Former criminal, terrorist, government agent, carnival performer",-
+656188ca17cbd6bc5d2d40e9,"Architect, former vigilante",-
+656188ca17cbd6bc5d2d40ea,-,-
+656188ca17cbd6bc5d2d40eb,Former squire,Slorenia
+656188ca17cbd6bc5d2d40ec,Archaeologist; professor of archaeology,-
+656188ca17cbd6bc5d2d40ed,-,-
+656188ca17cbd6bc5d2d40ee,"Inventor, President of Kord Omniversal, Crimefighter",-
+656188ca17cbd6bc5d2d40ef,Student,"El Paso, Texas"
+656188ca17cbd6bc5d2d40f0,Bounty Hunter,-
+656188ca17cbd6bc5d2d40f1,-,-
+656188ca17cbd6bc5d2d40f2,-,-
+656188ca17cbd6bc5d2d40f3,"Adventurer, former student, thief",-
+656188ca17cbd6bc5d2d40f4,-,-
+656188ca17cbd6bc5d2d40f5,"Superhero, Founder, C.E.O & Chairman of Booster Gold International","Metropolis, Earth, 21st Century, formerly Gotham City, 25th Century"
+656188ca17cbd6bc5d2d40f6,-,-
+656188ca17cbd6bc5d2d40f7,"Physics professor, former NFL player",Base of operations unknown
+656188ca17cbd6bc5d2d40f8,"Inventor, former soldier",Base of operations unknown
+656188ca17cbd6bc5d2d40f9,-,-
+656188ca17cbd6bc5d2d40fa,-,-
+656188ca17cbd6bc5d2d40fb,Psychologist Houngan (voodoo priest),"Port-au-Prince, Haiti"
+656188ca17cbd6bc5d2d40fc,Scientist,-
+656188ca17cbd6bc5d2d40fd,Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor,-
+656188ca17cbd6bc5d2d40fe,"Assassin, professional criminal, former mercenary",Formerly Avengers Tower; Thunderbolts Mountain
+656188ca17cbd6bc5d2d40ff,-,"San Francisco, California"
+656188ca17cbd6bc5d2d4100,-,-
+656188ca17cbd6bc5d2d4101,-,-
+656188ca17cbd6bc5d2d4102,"(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force","The Xavier Institute, Salem Center, Westchester County, New York"
+656188ca17cbd6bc5d2d4103,-,"The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
+656188ca17cbd6bc5d2d4104,-,-
+656188ca17cbd6bc5d2d4105,"Adventurer, peacekeeper, former student, mercenary, miner",-
+656188ca17cbd6bc5d2d4106,"Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",New York City
+656188ca17cbd6bc5d2d4107,Former Soldier,-
+656188ca17cbd6bc5d2d4108,"Adventurer, formerly King of Otherworld, scientist","Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
+6563a1ae3ef936792ce0c211,"Musician, adventurer, author; formerly talk show host",-
+6563a1ae3ef936792ce0c212,Paranormal Investigator,-
+6563a1ae3ef936792ce0c213,"Green Lantern, former history professor",Oa
+6563a1ae3ef936792ce0c214,Ex-Spy,Mobile
+6563a1ae3ef936792ce0c215,Dimensional destroyer,-
+6563a1ae3ef936792ce0c216,Professional criminal; former professional boxer,-
+6563a1ae3ef936792ce0c217,"former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army","U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+6563a1ae3ef936792ce0c218,"Adventurer, archaelogist, ambassador","Rann, Alpha Centauri System"
+6563a1ae3ef936792ce0c219,Agent of SHIELD,"S.H.I.E.L.D. Headquarters, New York City"
+6563a1ae3ef936792ce0c21a,"Mercenary, janitor; former pirate, terrorist","Mobile; formerly Manhattan, Hellcarrier"
+6563a1ae3ef936792ce0c21b,"Mercenary, former government operative, freedom fighter",-
+6563a1ae3ef936792ce0c21c,"Former starship captain, Herald of Galactus",-
+6563a1ae3ef936792ce0c21d,-,-
+6563a1ae3ef936792ce0c21e,-,Gotham City and New York City; Formerly Capitol City
+6563a1ae3ef936792ce0c21f,-,-
+6563a1ae3ef936792ce0c220,Employee at Sam's Comics,"Costa Verde, CA"
+6563a1ae3ef936792ce0c221,"Butler; Caretaker, former Actor; Field Medic; Government Agent",Wayne Manor; Batcave; Gotham City
+6563a1ae3ef936792ce0c222,-,-
+6563a1ae3ef936792ce0c223,(former) hunter; (current) agent of the British government,"The Secret Wing of the British Museum, London"
+6563a1ae3ef936792ce0c224,-,-
+6563a1ae3ef936792ce0c225,"Gang leader , criminal , former soldier",New York City
+6563a1ae3ef936792ce0c226,Yamagato Industries computer programmer,-
+6563a1ae3ef936792ce0c227,-,-
+6563a1ae3ef936792ce0c228,"Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",-
+6563a1ae3ef936792ce0c229,-,"Chicago, Illinois"
+6563a1ae3ef936792ce0c22a,-,-
+6563a1ae3ef936792ce0c22b,-,-
+6563a1ae3ef936792ce0c22c,-,"San Diego, California"
+6563a1ae3ef936792ce0c22d,"Conqueror, scavenger",-
+6563a1ae3ef936792ce0c22e,"Adventurer, Biochemist, former manager of Avengers Compound","Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+6563a1ae3ef936792ce0c22f,"Electronics Technician,","South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York"
+6563a1ae3ef936792ce0c230,-,"Qward, Antimatter Universe"
+6563a1ae3ef936792ce0c231,-,-
+6563a1ae3ef936792ce0c232,Vigilante; former journalist for the Daily Globe,"New York, New York"
+6563a1ae3ef936792ce0c233,Student; formerly Conqueror; Scientist,"Celestial Ship, mobile"
+6563a1ae3ef936792ce0c234,-,Atlantis
+6563a1ae3ef936792ce0c235,"Adventurer; Magician, former Sidekick",Atlantis
+6563a1ae3ef936792ce0c236,"Protector of the Seas and Oceans, King of Poseidonis","Atlantean Royal Palace; Poseidonis, Atlantis"
+6563a1ae3ef936792ce0c237,"Adventurer, fugitive, former government agent","Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
+6563a1ae3ef936792ce0c238,"Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",-
+6563a1ae3ef936792ce0c239,Terrorist,-
+6563a1ae3ef936792ce0c23a,-,-
+6563a1ae3ef936792ce0c23b,-,"Avengers Tower, formerly Olympus"
+6563a1ae3ef936792ce0c23c,"Leader, refugee alien; former alien mutant-hunter and hedonist",-
+6563a1ae3ef936792ce0c23d,"Adventurer, student",-
+6563a1ae3ef936792ce0c23e,-,-
+6563a1ae3ef936792ce0c23f,-,-
+6563a1ae3ef936792ce0c240,"Adventurer; former professional criminal, mercenary, dock worker, soldier",-
+6563a1ae3ef936792ce0c241,-,"Formely; Hyssa, Metropolis"
+6563a1ae3ef936792ce0c242,"Adventurer, Retired Professor of Nuclear Physics","GBS Building, Gotham City (former) Calvin College on Earth-Two"
+6563a1ae3ef936792ce0c243,-,-
+6563a1ae3ef936792ce0c244,-,"United Planets, 31st century"
+6563a1ae3ef936792ce0c245,Physics Professor,Ivy Town
+6563a1ae3ef936792ce0c246,-,-
+6563a1ae3ef936792ce0c247,Professor of nuclear physics at Ivy University,Ivy Town
+6563a1ae3ef936792ce0c248,"Adventurer; former terrorist, nun, history/geography teacher","Laval, Quebec, Canada"
+6563a1ae3ef936792ce0c249,Leader of the Neyaphem,"Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
+6563a1ae3ef936792ce0c24a,"Former Police Officer, vigilante",-
+6563a1ae3ef936792ce0c24b,-,-
+6563a1ae3ef936792ce0c24c,-,Santa Prisca
+6563a1ae3ef936792ce0c24d,"Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor","Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
+6563a1ae3ef936792ce0c24e,"Adventurer, boxing trainer, former boxer",-
+6563a1ae3ef936792ce0c24f,-,"Gotham City, formerly Metropolis, Platinum Flats"
+6563a1ae3ef936792ce0c250,Crime-fighter,Gotham City
+6563a1ae3ef936792ce0c251,-,-
+6563a1ae3ef936792ce0c252,-,Gotham City; Bl dhaven; Tibet; New York City
+6563a1ae3ef936792ce0c253,-,-
+6563a1ae3ef936792ce0c254,College student at Gotham University,"Gotham Heights, Gotham City"
+6563a1ae3ef936792ce0c255,-,21st Century Gotham City
+6563a1ae3ef936792ce0c256,Businessman,"Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+6563a1ae3ef936792ce0c257,-,"Gotham City; formerly Bludhaven, New York City"
+6563a1ae3ef936792ce0c258,"Former wrestler, federal operative",-
+6563a1ae3ef936792ce0c259,-,Gotham City
+6563a1ae3ef936792ce0c25a,-,-
+6563a1ae3ef936792ce0c25b,"Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler","Xavier Institute, Salem Center, Westchester County, New York"
+6563a1ae3ef936792ce0c25c,"Adventurer, Struggling Actor","Prague; formerly Hollywood, California; formerly Manhattan, New York"
+6563a1ae3ef936792ce0c25d,-,-
+6563a1ae3ef936792ce0c25e,-,-
+6563a1ae3ef936792ce0c25f,Guardian of the Korbinite race,"currently New York City, formerly Asgard, formerly the fleet of Korbinite ships."
+6563a1ae3ef936792ce0c260,Former student,-
+6563a1ae3ef936792ce0c261,-,"Gotham City, New Genesis, formerly Apokolips"
+6563a1ae3ef936792ce0c262,-,-
+6563a1ae3ef936792ce0c263,"Reporter, professional criminal",-
+6563a1ae3ef936792ce0c264,-,-
+6563a1ae3ef936792ce0c265,-,-
+6563a1af3ef936792ce0c266,"Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.",Avengers Mansion
+6563a1af3ef936792ce0c267,-,-
+6563a1af3ef936792ce0c268,-,-
+6563a1af3ef936792ce0c269,-,-
+6563a1af3ef936792ce0c26a,-,-
+6563a1af3ef936792ce0c26b,-,-
+6563a1af3ef936792ce0c26c,"(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)","Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
+6563a1af3ef936792ce0c26d,-,Bizarro World
+6563a1af3ef936792ce0c26e,"Cult leader, former monk",-
+6563a1af3ef936792ce0c26f,-,Mobile; Formerly Kahndaq; Fawcett City; New York City
+6563a1af3ef936792ce0c270,King of the Inhumans,"Attilan, Blue Area of the Moon"
+6563a1af3ef936792ce0c271,"Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor","Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
+6563a1af3ef936792ce0c272,"Florist, former private investigator","Gotham City, Park City"
+6563a1af3ef936792ce0c273,"Cat burglar; Private investigator, founder of Cat's Eye Investigations.",-
+6563a1af3ef936792ce0c274,-,-
+6563a1af3ef936792ce0c275,-,-
+6563a1af3ef936792ce0c276,"Adventurer, scientist; former crusader",-
+6563a1af3ef936792ce0c277,"Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.","Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
+6563a1af3ef936792ce0c278,"Mercenary, professional criminal, former call girl","Mobile, formerly Serpent Citadel"
+6563a1af3ef936792ce0c279,-,-
+6563a1af3ef936792ce0c27a,"King and Chieftain of Wakanda, scientist; former school teacher","Wakanda, Mobile"
+6563a1af3ef936792ce0c27b,"Adventurer, Intelligence agent, former ballerina",Mobile
+6563a1af3ef936792ce0c27c,-,-
+6563a1af3ef936792ce0c27d,"Assassin, enforcer",-
+6563a1af3ef936792ce0c27e,-,-
+6563a1af3ef936792ce0c27f,Freedom Fighter,-
+6563a1af3ef936792ce0c280,"Vampire hunter, former private investigator.",Mobile
+6563a1af3ef936792ce0c281,Inventor,"Baltimore, Maryland"
+6563a1af3ef936792ce0c282,-,"Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
+6563a1af3ef936792ce0c283,"Adventurer, freedom fighter","Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Black Rome, Necrosha"
+6563a1af3ef936792ce0c284,"Professional criminal, mercenary, engineer, former scientist","New York City, New York"
+6563a1af3ef936792ce0c285,-,-
+6563a1af3ef936792ce0c286,Adventurer; former mercenary and professional criminal,-
+6563a1af3ef936792ce0c287,"Former criminal, terrorist, government agent, carnival performer",-
+6563a1af3ef936792ce0c288,"Architect, former vigilante",-
+6563a1af3ef936792ce0c289,-,-
+6563a1af3ef936792ce0c28a,Former squire,Slorenia
+6563a1af3ef936792ce0c28b,Archaeologist; professor of archaeology,-
+6563a1af3ef936792ce0c28c,-,-
+6563a1af3ef936792ce0c28d,"Inventor, President of Kord Omniversal, Crimefighter",-
+6563a1af3ef936792ce0c28e,Student,"El Paso, Texas"
+6563a1af3ef936792ce0c28f,Bounty Hunter,-
+6563a1af3ef936792ce0c290,-,-
+6563a1af3ef936792ce0c291,-,-
+6563a1af3ef936792ce0c292,"Adventurer, former student, thief",-
+6563a1af3ef936792ce0c293,-,-
+6563a1af3ef936792ce0c294,"Superhero, Founder, C.E.O & Chairman of Booster Gold International","Metropolis, Earth, 21st Century, formerly Gotham City, 25th Century"
+6563a1af3ef936792ce0c295,-,-
+6563a1af3ef936792ce0c296,"Physics professor, former NFL player",Base of operations unknown
+6563a1af3ef936792ce0c297,"Inventor, former soldier",Base of operations unknown
+6563a1af3ef936792ce0c298,-,-
+6563a1af3ef936792ce0c299,-,-
+6563a1af3ef936792ce0c29a,Psychologist Houngan (voodoo priest),"Port-au-Prince, Haiti"
+6563a1af3ef936792ce0c29b,Scientist,-
+6563a1af3ef936792ce0c29c,Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor,-
+6563a1af3ef936792ce0c29d,"Assassin, professional criminal, former mercenary",Formerly Avengers Tower; Thunderbolts Mountain
+6563a1af3ef936792ce0c29e,-,"San Francisco, California"
+6563a1af3ef936792ce0c29f,-,-
+6563a1af3ef936792ce0c2a0,-,-
+6563a1af3ef936792ce0c2a1,"(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force","The Xavier Institute, Salem Center, Westchester County, New York"
+6563a1af3ef936792ce0c2a2,-,"The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
+6563a1af3ef936792ce0c2a3,-,-
+6563a1af3ef936792ce0c2a4,"Adventurer, peacekeeper, former student, mercenary, miner",-
+6563a1af3ef936792ce0c2a5,"Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",New York City
+6563a1af3ef936792ce0c2a6,Former Soldier,-
+6563a1af3ef936792ce0c2a7,"Adventurer, formerly King of Otherworld, scientist","Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
