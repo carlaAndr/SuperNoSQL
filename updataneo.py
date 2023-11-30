@@ -8,7 +8,7 @@ def main():
     
     #column_list = df['column_name'].tolist()
     import pandas as pd
-    column_list = pd.read_csv('https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/character.csv')['_id'].tolist()
+    column_list = pd.read_csv('https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/character.txt')['_id'].tolist()
 
     # Example usage:
     # Function to load CSV data into Neo4j
@@ -36,13 +36,13 @@ def main():
         )
         return query
     # Load CSV files into Neo4j
-    csv_files = ['https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/appearance.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/biography.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/character.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/connections.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/image.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/powerstats.csv',
-                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/work.csv']
+    csv_files = ['https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/appearance.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/biography.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/character.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/connections.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/image.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/powerstats.txt',
+                'https://raw.githubusercontent.com/carlaAndr/SuperNoSQL/main/csv/work.txt']
     node_labels = ['Appearance', 'Biography', 'Character', 'Connections', 'Image', 'Powerstats', 'Work']
 
     with GraphDatabase.driver(uri, auth=(username, password)) as driver:
