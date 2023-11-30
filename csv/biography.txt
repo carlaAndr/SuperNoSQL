@@ -1,0 +1,303 @@
+_id,biography.full-name,biography.alter-egos,biography.aliases,biography.place-of-birth,biography.first-appearance,biography.publisher,biography.alignment
+656188c917cbd6bc5d2d4072,Richard Milhouse Jones,No alter egos found.,['Rick Jones'],"Scarsdale, Arizona","Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",Marvel Comics,good
+656188c917cbd6bc5d2d4073,Abraham Sapien,No alter egos found.,"['Langdon Everett Caul', 'Abraham Sapien', 'Langdon Caul']",-,Hellboy: Seed of Destruction (1993),Dark Horse Comics,good
+656188c917cbd6bc5d2d4074,unknown,No alter egos found.,['Lagzia'],Ungara,"Showcase #22 (October, 1959)",DC Comics,good
+656188c917cbd6bc5d2d4075,Emil Blonsky,No alter egos found.,"['Agent R-7', 'Ravager of Worlds']","Zagreb, Yugoslavia",Tales to Astonish #90,Marvel Comics,bad
+656188c917cbd6bc5d2d4076,Abraxas,No alter egos found.,['-'],Within Eternity,Fantastic Four Annual #2001,Marvel Comics,bad
+656188c917cbd6bc5d2d4077,Carl Creel,No alter egos found.,"['Greithoth', '""Crusher"" Creel', 'Rocky Davis', 'Dynamite Davis', 'Lightningbolt', 'Prisoner #24957']","New York City, New York","Daredevil #1 (April, 1964) (As Rocky Davis)",Marvel Comics,bad
+656188ca17cbd6bc5d2d4078,unknown,No alter egos found.,"['Takezo Kensei', 'Richard Sanders']",-,Heroes S02E01 - Four Months Later...,NBC - Heroes,good
+656188ca17cbd6bc5d2d4079,Adam Strange,No alter egos found.,"['Warrior of Two Worlds', 'Savior of Rann']","Chicago, Illinois","Outsiders #6 (April, 1986)",DC Comics,good
+656188ca17cbd6bc5d2d407a,Sharon Carter,Sharon Carter,['-'],-,Tales of Suspense #75,Sharon Carter,good
+656188ca17cbd6bc5d2d407b,Bob,No alter egos found.,"['Bob', 'agent of Hydra', 'Bob', 'agent of A.I.M']",-,"Cable & Deadpool #38 (May, 2007)",Marvel Comics,good
+656188ca17cbd6bc5d2d407c,Christoph Nord,No alter egos found.,['Maverick'],Unrevealed location in former East Germany,-,Marvel Comics,good
+656188ca17cbd6bc5d2d407d,Gabriel Lan,No alter egos found.,['-'],"Xandar, a planet in the Tranta system, Andromeda galaxy",Fantastic Four #120,Marvel Comics,bad
+656188ca17cbd6bc5d2d407e,Francis,No alter egos found.,"['""Frankie""', 'the A-Man', 'the Attending']",-,"Deadpool #14 (March, 1998)",Marvel Comics,bad
+656188ca17cbd6bc5d2d407f,Alan Ladd Wellington Scott,No alter egos found.,"['Green Lantern', 'White King', 'Sentinal']",Gotham City,All-American Comics 16 (1940),DC Comics,good
+656188ca17cbd6bc5d2d4080,Alexander J. Mercer,No alter egos found.,"['Prototype', 'Zues', 'Blacklight']",-,-,Wildstorm,bad
+656188ca17cbd6bc5d2d4081,Alex Woolsly,No alter egos found.,['-'],-,Heroes S02E16 - Building 26,NBC - Heroes,good
+656188ca17cbd6bc5d2d4082,Alfred Thaddeus Crane Pennyworth,No alter egos found.,['Alfred Beagle'],-,"Batman #16 (April, 1943)",DC Comics,good
+656188ca17cbd6bc5d2d4083,Xenomorph,No alter egos found.,['-'],Your chest :),Alien (1979),Dark Horse Comics,bad
+656188ca17cbd6bc5d2d4084,unknown,No alter egos found.,['-'],-,(original version) King Solomon's Mines; (this version) League of Extraordinary Gentlemen #1 (America's Best Comics),Wildstorm,good
+656188ca17cbd6bc5d2d4085,unknown,No alter egos found.,"['Professor Ivos Amazing Android', 'Timazo', 'Humazo', 'Hourmazo']",-,"Brave and the Bold #30 (July, 1960)",DC Comics,bad
+656188ca17cbd6bc5d2d4086,unknown,No alter egos found.,['-'],-,"Daredevil #252 (March, 1988)",Marvel Comics,bad
+656188ca17cbd6bc5d2d4087,Ando Masahashi,No alter egos found.,"['Huggerz69', 'Sidekick']",-,-,NBC - Heroes,good
+656188ca17cbd6bc5d2d4088,Liam,No alter egos found.,"['Angelus', 'Twilight']",-,-,Dark Horse Comics,good
+656188ca17cbd6bc5d2d4089,Warren Kenneth Worthington III,Archangel,"['Formerly Death', 'Dark Angel', 'Angel', 'Avenging Angel', 'Archangel']","Centerport, Long Island, New York",X-Men #54-56 (1969),Archangel,good
+656188ca17cbd6bc5d2d408a,Christina,No alter egos found.,"['Angel', 'Dusty']",-,Morlocks #1,Marvel Comics,good
+656188ca17cbd6bc5d2d408b,Angel Salvadore Bohusk,Tempest,['Tempest'],-,"New X-Men #118 (November, 2001)",Tempest,good
+656188ca17cbd6bc5d2d408c,unknown,No alter egos found.,['-'],-,-,Image Comics,bad
+656188ca17cbd6bc5d2d408d,Bernhard Baker,No alter egos found.,['The Human Zoo; A-Man; The Man with Animal Powers'],-,"Strange Adventures #180 (September, 1965)",DC Comics,good
+656188ca17cbd6bc5d2d408e,Annihilus,No alter egos found.,"['The Living Death That Walks', 'Lord of the Negative Zone']","Planet of Arthros, Sector 17A, Negative Zone",Fantastic Four Annual #6 (1968),Marvel Comics,bad
+656188ca17cbd6bc5d2d408f,Hank Pym,"Giant-Man, Goliath, Wasp II, Yellowjacket","['Hank Pym', 'Doctor Pym', 'Ant-Man', 'Goliath', 'Yellowjacket', 'Wasp', ""Earth's Scientist Supreme""]","Elmsford, New York","Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",Giant-Man,good
+656188ca17cbd6bc5d2d4090,Scott Lang,No alter egos found.,"['Myrmidon', 'Scott Edward Harris Lang']","Coral Gables, Florida","Avengers Vol 1 #181 (March, 1979)",Marvel Comics,good
+656188ca17cbd6bc5d2d4091,unknown,No alter egos found.,"['Monitor', 'Mobius']",Moon of Qward,Crisis on Infinite Earths #4,DC Comics,bad
+656188ca17cbd6bc5d2d4092,Jason Wynn,No alter egos found.,['Redeemer'],-,Spawn #16,Image Comics,bad
+656188ca17cbd6bc5d2d4093,Eddie Brock,"Toxin, Venom","['Eddie', 'Edwin Brock', 'Venom', 'Lethal Protector', 'White Venom', '998th']","San Francisco, California",Amazing Spider-Man #569 (as Anti-Venom),Toxin,-
+656188ca17cbd6bc5d2d4094,En Sabah Nur,No alter egos found.,"['The Eternal One', 'the High Lord', 'Set', 'Huitxilopochti', 'Sauru', 'Kali-Ma']","Akkaba, Egypt","X-Factor #5 (June, 1986)",Marvel Comics,bad
+656188ca17cbd6bc5d2d4095,"Arthur Curry, Jr.",No alter egos found.,['-'],-,"Aquaman #23 (October, 1965)",DC Comics,good
+656188ca17cbd6bc5d2d4096,Garth,No alter egos found.,['-'],"Poseidonis, Atlantis","Adventure Comics #269 (February, 1960)",DC Comics,good
+656188ca17cbd6bc5d2d4097,Orin,No alter egos found.,"['Dweller in the Depths', 'Swimmer', 'Waterbearer', 'Mental Man', 'Aquaboy', 'Water Wraith']",Atlantis,"More Fun Comics #73 (November, 1941)",DC Comics,good
+656188ca17cbd6bc5d2d4098,Julia Carpenter,No alter egos found.,"['Spider-Woman', 'Madame Web']","Los Angeles, California",Marvel Super Heroes Secret Wars #6,Marvel Comics,good
+656188ca17cbd6bc5d2d4099,Warren Kenneth Worthington III,Angel,"['War', 'Dark Angel', 'Death', 'Avenging Angel']","Centerport, Long Island, New York","X-Men #1 (September, 1963)",Angel,good
+656188ca17cbd6bc5d2d409a,Philippa Sontag,No alter egos found.,['-'],Vietnam,"(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",Marvel Comics,bad
+656188ca17cbd6bc5d2d409b,Ardina,No alter egos found.,['-'],-,The Order #4,Marvel Comics,good
+656188ca17cbd6bc5d2d409c,unknown,No alter egos found.,"['God of War', 'Mister Talon', 'Mars', 'Warhawk']",-,Thor #129,Marvel Comics,good
+656188ca17cbd6bc5d2d409d,Ariel,No alter egos found.,['-'],-,Fallen Angels #1 (1987),Marvel Comics,good
+656188ca17cbd6bc5d2d409e,Hisako Ichiki,No alter egos found.,"['X-Girl', 'Kid']",-,Astonishing X-Men #4 (2004),Marvel Comics,good
+656188ca17cbd6bc5d2d409f,"Roy William Harper, Jr.",Speedy,['-'],-,-,Speedy,good
+656188ca17cbd6bc5d2d40a0,Atom,No alter egos found.,['-'],-,-,unknown,good
+656188ca17cbd6bc5d2d40a1,Erik Josten,"Goliath, Power Man, Smuggler","['Power Man', 'Smuggler', 'Goliath', 'Shatterfist', 'Intruder from Beyond', 'Edward Jantzen']","Milwaukee, Wisconsin",Incredible Hulk #449,Goliath,good
+656188ca17cbd6bc5d2d40a2,unknown,No alter egos found.,"['Atlas the Great', 'Atlas the Untamed']",Crystal Mountain,Action Comics #121,DC Comics,bad
+656188ca17cbd6bc5d2d40a3,Albert Pratt,No alter egos found.,"['Little Superman', 'the Mighty Mite']",-,All American Comics #19,DC Comics,good
+656188ca17cbd6bc5d2d40a4,unknown,No alter egos found.,['-'],-,-,DC Comics,good
+656188ca17cbd6bc5d2d40a5,Salu Digby,No alter egos found.,['Shrinking Violet'],-,Teen Titans/Legion Special #1 (2004),DC Comics,good
+656188ca17cbd6bc5d2d40a6,Ray Palmer,No alter egos found.,"['The Mighty Mite', 'the Tiny Titan', ""the World's Smallest Hero""]",-,Showcase #34,DC Comics,good
+656188ca17cbd6bc5d2d40a7,Adam Cray,No alter egos found.,['-'],-,Suicide Squad (Volume 1) #44,DC Comics,good
+656188ca17cbd6bc5d2d40a8,Ryan Choi,No alter egos found.,['-'],-,Brave New World #1,DC Comics,good
+656188ca17cbd6bc5d2d40a9,Jeanne-Marie Beaubier,No alter egos found.,['Sister Beaubier'],"Montreal, Quebec, Canada",X-Men #121 (1979),Marvel Comics,good
+656188ca17cbd6bc5d2d40aa,unknown,No alter egos found.,"['Semihazah', 'Duma', 'Keriel', 'Mastema', 'Beliar', 'Gadreel', 'Beelzebub', 'Satan']","Isla des Demonas, Caribbean Sea",Uncanny X-Men #428 (2003),Marvel Comics,bad
+656188ca17cbd6bc5d2d40ab,Michael Washington Lane,No alter egos found.,['Bat-Devil; Bat-Ghost'],Gotham City,"Batman #672 (February, 2008)",DC Comics,good
+656188ca17cbd6bc5d2d40ac,Aztar,Spectre,['Spirit of Vengeance'],-,More Fun Comics #52 (February 1940),Spectre,good
+656188ca17cbd6bc5d2d40ad,unknown,No alter egos found.,['-'],-,"Batman: Vengeance of Bane #1 (January, 1993)",DC Comics,bad
+656188ca17cbd6bc5d2d40ae,Sean Cassidy,No alter egos found.,['Death'],"Cassidy Keep, Ireland","X-Men #28 (January, 1967)",Marvel Comics,good
+656188ca17cbd6bc5d2d40af,Roberto Velasquez,No alter egos found.,['-'],-,"Civil War: Front Line #3 (September, 2006)",Marvel Comics,good
+656188ca17cbd6bc5d2d40b0,Barbara Gordon,Oracle,"['Oracle', 'Bluebelle']",-,Detective Comics #359,Oracle,good
+656188ca17cbd6bc5d2d40b1,Mary Elizabeth Kane,Hawkfire,"['Bette Kane', 'Bat-Girl']",-,Batman #139,Hawkfire,good
+656188ca17cbd6bc5d2d40b2,Helena Rosa Bertinelli,Huntress,['-'],-,-,Huntress,good
+656188ca17cbd6bc5d2d40b3,Cassandra Cain,No alter egos found.,"['Kasumi', 'various mundane persona,']",League of Assassins (exact base is unknown),Batman: Legends of the Dark Knight #120,DC Comics,good
+656188ca17cbd6bc5d2d40b4,Charlotte Gage-Radcliffe,Misfit,['-'],-,-,Misfit,good
+656188ca17cbd6bc5d2d40b5,Stephanie Brown,Spoiler,"['Steph', 'Robin', 'Marion Todd', 'Spoiler']",-,Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009),Spoiler,good
+656188ca17cbd6bc5d2d40b6,Terry McGinnis,No alter egos found.,"['Batman II', 'The Tomorrow Knight', 'The second Dark Knight', 'The Dark Knight of Tomorrow', 'Batman Beyond']","Gotham City, 25th Century",Batman Beyond #1,DC Comics,good
+656188ca17cbd6bc5d2d40b7,Bruce Wayne,No alter egos found.,"['Insider', 'Matches Malone']","Crest Hill, Bristol Township; Gotham County",Detective Comics #27,DC Comics,good
+656188ca17cbd6bc5d2d40b8,Dick Grayson,"Nightwing, Robin",['Dick Grayson'],-,-,Nightwing,good
+656188ca17cbd6bc5d2d40b9,Lemar Hoskins,No alter egos found.,['Bucky'],"Chicago, Illinois",Captain America #323 (1986); (as Bucky),Marvel Comics,good
+656188ca17cbd6bc5d2d40ba,Katherine Rebecca Kane,No alter egos found.,['-'],-,"52 #7 (June, 2006)",DC Comics,good
+656188ca17cbd6bc5d2d40bb,Barnell Bohusk,No alter egos found.,['Blackwing'],"Cheverly, Maryland",-,Marvel Comics,good
+656188ca17cbd6bc5d2d40bc,Henry Philip McCoy,No alter egos found.,"['Dr. McCoy', 'Hanko', 'Kreature', 'Mutate #666', 'Magilla Gorilla', 'Golden Armed Boy']","Dunfee, Illinois","X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",Marvel Comics,good
+656188ca17cbd6bc5d2d40bd,Garfield Mark Logan,No alter egos found.,"['Changeling', 'Beast-Brat', 'Green Jeans', 'Salad-head', 'Sprout', 'Tork', 'Craig Logan']",-,"Doom Patrol #99 (November, 1965)",DC Comics,good
+656188ca17cbd6bc5d2d40be,unknown,No alter egos found.,['-'],-,-,Marvel Comics,bad
+656188ca17cbd6bc5d2d40bf,Benjamin Kirby Tennyson,No alter egos found.,['Ben Ten'],-,Ben 10 S01E01,DC Comics,good
+656188ca17cbd6bc5d2d40c0,Beta Ray Bill (translation of his Korbinite name),No alter egos found.,"['Beta Ray Thor', 'Simon Walters']",Burning Galaxy,Thor #337,Marvel Comics,good
+656188ca17cbd6bc5d2d40c1,unknown,No alter egos found.,"['Ataxi', 'The Beyond Realm', 'Frank', 'Goblin Force', 'Goblin King', 'Goblyn King', 'Goblin Queen', 'The One From Beyond', 'God', 'Kosmos', 'Maker']",Created in the Beyond,Marvel Super-Heroes Secret Wars #1,Marvel Comics,good
+656188ca17cbd6bc5d2d40c2,Barda Free,No alter egos found.,"['Barda', 'the Strongest Woman in the World']",-,Mister Miracle (Volume 1) #4,DC Comics,bad
+656188ca17cbd6bc5d2d40c3,Damon Macready,No alter egos found.,['-'],-,Kick-Ass #4,Icon Comics,good
+656188ca17cbd6bc5d2d40c4,Frederick Foswell,No alter egos found.,['Patch'],-,Amazing Spider-Man # 10 (1964),Marvel Comics,bad
+656188ca17cbd6bc5d2d40c5,unknown,No alter egos found.,['-'],-,-,SyFy,good
+656188ca17cbd6bc5d2d40c6,Billy Kincaid,No alter egos found.,['-'],-,Spawn #5 (October 1992),Image Comics,bad
+656188ca17cbd6bc5d2d40c7,Carol Danvers,"Captain Marvel, Warbird","['Ms. Marvel', 'Binary']","Boston, Massachusetts","(as Carol Danvers) MARVEL SUPER HEROES #13, (as Ms. Marvel) MS. MARVEL #1, (as Binary) X-MEN # 164, AVENGERS Vol. 3, # 4",Captain Marvel,good
+656188ca17cbd6bc5d2d40c8,Jamie Sommers,No alter egos found.,['Clarissa Whyte'],-,-,unknown,good
+656188ca17cbd6bc5d2d40c9,unknown,No alter egos found.,['Bird-Boy'],-,"The New Mutants #56 (October, 1987)",Marvel Comics,good
+656188ca17cbd6bc5d2d40ca,Henry Hawk,No alter egos found.,['-'],-,"Daredevil #10 (October, 1965)",Marvel Comics,bad
+656188ca17cbd6bc5d2d40cb,Achille DiBacco,No alter egos found.,['-'],"The Bar with No Name, Medina County, Ohio","Daredevil #157 (March, 1979)",Marvel Comics,bad
+656188ca17cbd6bc5d2d40cc,Ray Randal,No alter egos found.,"['Bird-Man', 'Harvey Birdman', 'Ray Randal', 'Harvey Birdman Attorney at Law', 'Harry', 'Henry', 'Birdbath', 'Bootyliciuos']",-,Birdman and the Galaxy Trio (1967),Hanna-Barbera,good
+656188ca17cbd6bc5d2d40cd,Lucas Bishop,No alter egos found.,['Archbishop'],A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth,"Uncanny X-Men #282 (November, 1991)",Marvel Comics,good
+656188ca17cbd6bc5d2d40ce,Bizarro,No alter egos found.,['-'],-,Superboy Vol. 1 #68 (1958),DC Comics,neutral
+656188ca17cbd6bc5d2d40cf,unknown,No alter egos found.,['Lord Abbott'],-,Marvel Team Up #146 (1984),Marvel Comics,bad
+656188ca17cbd6bc5d2d40d0,Teth-Adam,No alter egos found.,"['Hassan Bari', 'Theo Adam', 'Mighty Adam', 'Khem-Adam']","Kahndaq, Egypt","Marvel Family #1 (December, 1945)",DC Comics,bad
+656188ca17cbd6bc5d2d40d1,Blackagar Boltagon,No alter egos found.,['-'],"Attilan, Atlantic Ocean","Fantastic Four #45 (December, 1965)",Marvel Comics,good
+656188ca17cbd6bc5d2d40d2,Laurel Lance,No alter egos found.,['Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow'],-,Justice League of America (Volume 1) #75,DC Comics,good
+656188ca17cbd6bc5d2d40d3,Dinah Drake Lance,No alter egos found.,['-'],-,"Flash Comics #86 (August, 1947)",DC Comics,good
+656188ca17cbd6bc5d2d40d4,Felicia Hardy,No alter egos found.,['Felicity Harmon'],"Queens, New York","Amazing Spider-Man #194 (July, 1979)",Marvel Comics,good
+656188ca17cbd6bc5d2d40d5,unknown,No alter egos found.,"['Barry Allen', 'Flashback', 'Slow Lightning', 'Black Racer', 'Death Flash', 'God of Death']",-,Flash Vol 2 #138,DC Comics,neutral
+656188ca17cbd6bc5d2d40d6,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+656188ca17cbd6bc5d2d40d7,Dane Whitman,No alter egos found.,"['The Pendragon', 'Gann Josin', 'Eobar Garrington']","Gloucester, Massachusetts",Avengers #47 (1967),Marvel Comics,good
+656188ca17cbd6bc5d2d40d8,Jefferson Pierce,No alter egos found.,['-'],-,Black Lightning #1 (April 1977),DC Comics,good
+656188ca17cbd6bc5d2d40d9,Tanya Sealy,No alter egos found.,['Tanya Sweet'],"Chicago, Illinois",Marvel Two-In-One #64,Marvel Comics,bad
+656188ca17cbd6bc5d2d40da,David,No alter egos found.,"['Devil Ray', 'Scourge of the Seven Seas', 'Yellow Lantern']",-,"Aquaman #35 (August, 1967)",DC Comics,bad
+656188ca17cbd6bc5d2d40db,T'Challa,No alter egos found.,"['Mr. Okonkwo', 'The Man Without Fear', 'Luke Charles', 'Black Leopard', 'the Client', 'Coal Tiger', 'has impersonated Daredevil and others on occasion']","Wakanda, Africa",Fantastic Four Vol. 1 #52 (1966),Marvel Comics,good
+656188ca17cbd6bc5d2d40dc,Natasha Romanoff,No alter egos found.,"['Yelena Belova', 'Natasha Romanoff', 'Natasha', 'Tasha', 'Madame Natasha', 'Nancy Rushman', 'Laura Matthers', 'Nadine Roman', '""Oktober""', 'Black Pearl', 'Ebon Flame']",-,Tales of Suspense #52,Marvel Comics,good
+656188ca17cbd6bc5d2d40dd,Yelena Belova,No alter egos found.,['-'],-,-,Marvel Comics,good
+656188ca17cbd6bc5d2d40de,unknown,No alter egos found.,['-'],-,"Ghost Rider Vol 3 #2 (June, 1990)",Marvel Comics,bad
+656188ca17cbd6bc5d2d40df,Joseph Manfredi,No alter egos found.,"['Blackwing', 'Joe Manfredi', 'Joe Silvermane', 'Guiseppi Manfredi']",Professional Criminal,"Daredevil #118 (February, 1975)",Marvel Comics,bad
+656188ca17cbd6bc5d2d40e0,Lucian,No alter egos found.,"['Pelops', 'Black Wolf']",Armechadon,"Thunderstrike #6 (March, 1994)",Marvel Comics,-
+656188ca17cbd6bc5d2d40e1,Eric Brooks,No alter egos found.,"['Switchblade', 'Frank Blade', 'Daywalker']","Soho, London,England",Tomb of Dracula Vol. 1 #10 (1973),Marvel Comics,good
+656188ca17cbd6bc5d2d40e2,-,Vertigo II,['-'],-,-,Vertigo II,good
+656188ca17cbd6bc5d2d40e3,Roxanne Washington,No alter egos found.,['-'],-,X-Men #171 (2005),Marvel Comics,good
+656188ca17cbd6bc5d2d40e4,Clarice Ferguson,No alter egos found.,['-'],Bahamas,"Uncanny X-Men #317 (October, 1994)",Marvel Comics,good
+656188ca17cbd6bc5d2d40e5,Gregor Shapanka,No alter egos found.,['Jack Frost'],-,Tales of Suspense #45,Marvel Comics,bad
+656188ca17cbd6bc5d2d40e6,unknown,No alter egos found.,['-'],-,-,Marvel Comics,bad
+656188ca17cbd6bc5d2d40e7,Donald Gill,No alter egos found.,['-'],"Newark, Delaware",Iron Man #223 (1987),Marvel Comics,bad
+656188ca17cbd6bc5d2d40e8,Frederick J. Dukes,No alter egos found.,['-'],"Lubbock, Texas",X-Men #3 (1964),Marvel Comics,bad
+656188ca17cbd6bc5d2d40e9,Jackie Lukus,No alter egos found.,['-'],-,(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449,Marvel Comics,bad
+656188ca17cbd6bc5d2d40ea,Lemuel Krug,No alter egos found.,['Lemuel Halcon'],-,X-Men (2099) #1,Marvel Comics,good
+656188ca17cbd6bc5d2d40eb,Sean Dolan,No alter egos found.,"['Black Wraith', 'Blood Wraith']",-,(Dolan) Black Knight #2 (1990); (Bloodwraith) Avengers Annual #22 (1993),Marvel Comics,bad
+656188ca17cbd6bc5d2d40ec,Daniel Garrett,No alter egos found.,['Daniel Garret (spelling variation)'],-,Mystery Men Comics #1,DC Comics,good
+656188ca17cbd6bc5d2d40ed,unknown,No alter egos found.,['-'],-,-,DC Comics,good
+656188ca17cbd6bc5d2d40ee,Theodore Kord,No alter egos found.,['-'],"Chicago, Illinois",CAPTAIN ATOM Vol. 1 #83 (1966) (Published by Charlton Comics),DC Comics,good
+656188ca17cbd6bc5d2d40ef,Jaime Reyes,No alter egos found.,['Scooter'],Presumed to be El Paso,Infinite Crisis #3 (2006),DC Comics,good
+656188ca17cbd6bc5d2d40f0,unknown,No alter egos found.,"['Teff', 'Sava Brek Madak', 'Jaster Mereel', 'Mandalore', ""Mand'alor""]",Kamino,-,George Lucas,bad
+656188ca17cbd6bc5d2d40f1,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+656188ca17cbd6bc5d2d40f2,unknown,No alter egos found.,['-'],-,Bomb Queen (2006) #1,Image Comics,bad
+656188ca17cbd6bc5d2d40f3,Tabitha Smith,Meltdown,"['Time Bomb', 'Boomer', 'Meltdown', 'Tabby', 'Firecracker', 'Mutate #35', 'Nancy Forrester']",-,Secret Wars II #5,Meltdown,good
+656188ca17cbd6bc5d2d40f4,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+656188ca17cbd6bc5d2d40f5,Michael Jon Carter,No alter egos found.,"['Bharjwarj', 'Bloodspot', 'Boosteroo', 'Booster', 'the Boy Wonder', 'Buster', 'Deathstroke', 'Goldstar', ""Greatest Hero You've Never Heard Of"", 'Guardian of the Multiverse', 'Jesus Alvarez', 'Kid', 'Killer Moth', 'The King', 'Loser Gold', 'Major Idiot', 'Man of Gold', 'Michael Carter', 'Blac']","Gotham City, 25th Century",Booster Gold #1,DC Comics,good
+656188ca17cbd6bc5d2d40f6,Roger Bochs,No alter egos found.,['Omega'],-,-,Marvel Comics,good
+656188ca17cbd6bc5d2d40f7,Dr. Walter Langowski,No alter egos found.,"['Box III', 'Wanda']",British Columbia,First appearance unknown,Marvel Comics,good
+656188ca17cbd6bc5d2d40f8,Madison Jeffries,Gemini V,"['Gemini', 'Jack-In-The-Box']",Place of birth unknown,Alpha Flight #16,Gemini V,good
+656188ca17cbd6bc5d2d40f9,Vril Dox,No alter egos found.,['Milton Fine'],-,Action Comics #242 (July 1958),DC Comics,bad
+656188ca17cbd6bc5d2d40fa,Querl Dox,No alter egos found.,['-'],-,"Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",DC Comics,good
+656188ca17cbd6bc5d2d40fb,Jericho Drumm,No alter egos found.,"['Doctor Voodoo', 'Sorcerer Supreme']","Port-au-Prince, Haiti","Strange Tales #169 (September, 1973)",Marvel Comics,good
+656188ca17cbd6bc5d2d40fc,Seth Brundle,No alter egos found.,['The Fly'],-,The Fly (1986),unknown,-
+656188ca17cbd6bc5d2d40fd,Buffy Anne Summers,No alter egos found.,"['Anne', 'The Chosen One', 'The Vampire Slayer', 'The Slayer', 'Buff', 'B', 'The Buffster', 'Belinda', 'Joan']",-,Dark Horse Presents 1998 Annual,Dark Horse Comics,good
+656188ca17cbd6bc5d2d40fe,Lester,No alter egos found.,"['Benjamin Poindexter', 'Daredevil', 'Punisher', 'Bullseye', 'Hawkeye', 'pitcher']",-,"Daredevil #131 (March, 1976)",Marvel Comics,bad
+656188ca17cbd6bc5d2d40ff,Karen Beecher,No alter egos found.,['-'],-,Teen Titans #45,DC Comics,good
+656188ca17cbd6bc5d2d4100,unknown,No alter egos found.,['-'],-,New X-Men #153,Marvel Comics,good
+656188ca17cbd6bc5d2d4101,Ryuko Orsono,No alter egos found.,['-'],-,Titans: Secret Files & Origins #2,DC Comics,good
+656188ca17cbd6bc5d2d4102,Nathan Summers,No alter egos found.,"['Chosen One', 'Soldier X', 'Nathan Dayspring', ""Askani'son"", 'Nathan Dayspring Summers', 'Nathan Winters', 'The Traveller', 'The Saviour']",Unrevealed location in the 20th Century United States,New Mutants #86 (as Cable),Marvel Comics,good
+656188ca17cbd6bc5d2d4103,Callisto,No alter egos found.,['-'],-,X-MEN (first series) #169,Marvel Comics,bad
+656188ca17cbd6bc5d2d4104,unknown,No alter egos found.,['-'],-,-,SyFy,good
+656188ca17cbd6bc5d2d4105,Samuel Zachery Guthrie,No alter egos found.,"['Formerly Samson Guthry', 'Sam Guthrie', 'Jet-Ass']","Cumberland County, Kentucky",Marvel Graphic Novel #4 (1982),Marvel Comics,good
+656188ca17cbd6bc5d2d4106,Steve Rogers,No alter egos found.,"['Nomad', 'The Captain']","Manhattan, New York City, New York",Captain America Comics #1 (March 1941),Marvel Comics,good
+656188ca17cbd6bc5d2d4107,Nathaniel Adam,No alter egos found.,"['Monarch', 'Allen Adam', 'Cameron Scott']",-,Captain Atom #1,DC Comics,good
+656188ca17cbd6bc5d2d4108,Brian Braddock,No alter egos found.,"['Britannic', 'Black Bishop', 'Jungle Man', 'King of Otherworld', 'Merlinson']","Braddock Manor, England","Captain Britain #1 (October, 1976)",Marvel Comics,good
+6563a1ae3ef936792ce0c211,Richard Milhouse Jones,No alter egos found.,['Rick Jones'],"Scarsdale, Arizona","Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",Marvel Comics,good
+6563a1ae3ef936792ce0c212,Abraham Sapien,No alter egos found.,"['Langdon Everett Caul', 'Abraham Sapien', 'Langdon Caul']",-,Hellboy: Seed of Destruction (1993),Dark Horse Comics,good
+6563a1ae3ef936792ce0c213,unknown,No alter egos found.,['Lagzia'],Ungara,"Showcase #22 (October, 1959)",DC Comics,good
+6563a1ae3ef936792ce0c214,Emil Blonsky,No alter egos found.,"['Agent R-7', 'Ravager of Worlds']","Zagreb, Yugoslavia",Tales to Astonish #90,Marvel Comics,bad
+6563a1ae3ef936792ce0c215,Abraxas,No alter egos found.,['-'],Within Eternity,Fantastic Four Annual #2001,Marvel Comics,bad
+6563a1ae3ef936792ce0c216,Carl Creel,No alter egos found.,"['Greithoth', '""Crusher"" Creel', 'Rocky Davis', 'Dynamite Davis', 'Lightningbolt', 'Prisoner #24957']","New York City, New York","Daredevil #1 (April, 1964) (As Rocky Davis)",Marvel Comics,bad
+6563a1ae3ef936792ce0c217,unknown,No alter egos found.,"['Takezo Kensei', 'Richard Sanders']",-,Heroes S02E01 - Four Months Later...,NBC - Heroes,good
+6563a1ae3ef936792ce0c218,Adam Strange,No alter egos found.,"['Warrior of Two Worlds', 'Savior of Rann']","Chicago, Illinois","Outsiders #6 (April, 1986)",DC Comics,good
+6563a1ae3ef936792ce0c219,Sharon Carter,Sharon Carter,['-'],-,Tales of Suspense #75,Sharon Carter,good
+6563a1ae3ef936792ce0c21a,Bob,No alter egos found.,"['Bob', 'agent of Hydra', 'Bob', 'agent of A.I.M']",-,"Cable & Deadpool #38 (May, 2007)",Marvel Comics,good
+6563a1ae3ef936792ce0c21b,Christoph Nord,No alter egos found.,['Maverick'],Unrevealed location in former East Germany,-,Marvel Comics,good
+6563a1ae3ef936792ce0c21c,Gabriel Lan,No alter egos found.,['-'],"Xandar, a planet in the Tranta system, Andromeda galaxy",Fantastic Four #120,Marvel Comics,bad
+6563a1ae3ef936792ce0c21d,Francis,No alter egos found.,"['""Frankie""', 'the A-Man', 'the Attending']",-,"Deadpool #14 (March, 1998)",Marvel Comics,bad
+6563a1ae3ef936792ce0c21e,Alan Ladd Wellington Scott,No alter egos found.,"['Green Lantern', 'White King', 'Sentinal']",Gotham City,All-American Comics 16 (1940),DC Comics,good
+6563a1ae3ef936792ce0c21f,Alexander J. Mercer,No alter egos found.,"['Prototype', 'Zues', 'Blacklight']",-,-,Wildstorm,bad
+6563a1ae3ef936792ce0c220,Alex Woolsly,No alter egos found.,['-'],-,Heroes S02E16 - Building 26,NBC - Heroes,good
+6563a1ae3ef936792ce0c221,Alfred Thaddeus Crane Pennyworth,No alter egos found.,['Alfred Beagle'],-,"Batman #16 (April, 1943)",DC Comics,good
+6563a1ae3ef936792ce0c222,Xenomorph,No alter egos found.,['-'],Your chest :),Alien (1979),Dark Horse Comics,bad
+6563a1ae3ef936792ce0c223,unknown,No alter egos found.,['-'],-,(original version) King Solomon's Mines; (this version) League of Extraordinary Gentlemen #1 (America's Best Comics),Wildstorm,good
+6563a1ae3ef936792ce0c224,unknown,No alter egos found.,"['Professor Ivos Amazing Android', 'Timazo', 'Humazo', 'Hourmazo']",-,"Brave and the Bold #30 (July, 1960)",DC Comics,bad
+6563a1ae3ef936792ce0c225,unknown,No alter egos found.,['-'],-,"Daredevil #252 (March, 1988)",Marvel Comics,bad
+6563a1ae3ef936792ce0c226,Ando Masahashi,No alter egos found.,"['Huggerz69', 'Sidekick']",-,-,NBC - Heroes,good
+6563a1ae3ef936792ce0c227,Liam,No alter egos found.,"['Angelus', 'Twilight']",-,-,Dark Horse Comics,good
+6563a1ae3ef936792ce0c228,Warren Kenneth Worthington III,Archangel,"['Formerly Death', 'Dark Angel', 'Angel', 'Avenging Angel', 'Archangel']","Centerport, Long Island, New York",X-Men #54-56 (1969),Archangel,good
+6563a1ae3ef936792ce0c229,Christina,No alter egos found.,"['Angel', 'Dusty']",-,Morlocks #1,Marvel Comics,good
+6563a1ae3ef936792ce0c22a,Angel Salvadore Bohusk,Tempest,['Tempest'],-,"New X-Men #118 (November, 2001)",Tempest,good
+6563a1ae3ef936792ce0c22b,unknown,No alter egos found.,['-'],-,-,Image Comics,bad
+6563a1ae3ef936792ce0c22c,Bernhard Baker,No alter egos found.,['The Human Zoo; A-Man; The Man with Animal Powers'],-,"Strange Adventures #180 (September, 1965)",DC Comics,good
+6563a1ae3ef936792ce0c22d,Annihilus,No alter egos found.,"['The Living Death That Walks', 'Lord of the Negative Zone']","Planet of Arthros, Sector 17A, Negative Zone",Fantastic Four Annual #6 (1968),Marvel Comics,bad
+6563a1ae3ef936792ce0c22e,Hank Pym,"Giant-Man, Goliath, Wasp II, Yellowjacket","['Hank Pym', 'Doctor Pym', 'Ant-Man', 'Goliath', 'Yellowjacket', 'Wasp', ""Earth's Scientist Supreme""]","Elmsford, New York","Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",Giant-Man,good
+6563a1ae3ef936792ce0c22f,Scott Lang,No alter egos found.,"['Myrmidon', 'Scott Edward Harris Lang']","Coral Gables, Florida","Avengers Vol 1 #181 (March, 1979)",Marvel Comics,good
+6563a1ae3ef936792ce0c230,unknown,No alter egos found.,"['Monitor', 'Mobius']",Moon of Qward,Crisis on Infinite Earths #4,DC Comics,bad
+6563a1ae3ef936792ce0c231,Jason Wynn,No alter egos found.,['Redeemer'],-,Spawn #16,Image Comics,bad
+6563a1ae3ef936792ce0c232,Eddie Brock,"Toxin, Venom","['Eddie', 'Edwin Brock', 'Venom', 'Lethal Protector', 'White Venom', '998th']","San Francisco, California",Amazing Spider-Man #569 (as Anti-Venom),Toxin,-
+6563a1ae3ef936792ce0c233,En Sabah Nur,No alter egos found.,"['The Eternal One', 'the High Lord', 'Set', 'Huitxilopochti', 'Sauru', 'Kali-Ma']","Akkaba, Egypt","X-Factor #5 (June, 1986)",Marvel Comics,bad
+6563a1ae3ef936792ce0c234,"Arthur Curry, Jr.",No alter egos found.,['-'],-,"Aquaman #23 (October, 1965)",DC Comics,good
+6563a1ae3ef936792ce0c235,Garth,No alter egos found.,['-'],"Poseidonis, Atlantis","Adventure Comics #269 (February, 1960)",DC Comics,good
+6563a1ae3ef936792ce0c236,Orin,No alter egos found.,"['Dweller in the Depths', 'Swimmer', 'Waterbearer', 'Mental Man', 'Aquaboy', 'Water Wraith']",Atlantis,"More Fun Comics #73 (November, 1941)",DC Comics,good
+6563a1ae3ef936792ce0c237,Julia Carpenter,No alter egos found.,"['Spider-Woman', 'Madame Web']","Los Angeles, California",Marvel Super Heroes Secret Wars #6,Marvel Comics,good
+6563a1ae3ef936792ce0c238,Warren Kenneth Worthington III,Angel,"['War', 'Dark Angel', 'Death', 'Avenging Angel']","Centerport, Long Island, New York","X-Men #1 (September, 1963)",Angel,good
+6563a1ae3ef936792ce0c239,Philippa Sontag,No alter egos found.,['-'],Vietnam,"(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",Marvel Comics,bad
+6563a1ae3ef936792ce0c23a,Ardina,No alter egos found.,['-'],-,The Order #4,Marvel Comics,good
+6563a1ae3ef936792ce0c23b,unknown,No alter egos found.,"['God of War', 'Mister Talon', 'Mars', 'Warhawk']",-,Thor #129,Marvel Comics,good
+6563a1ae3ef936792ce0c23c,Ariel,No alter egos found.,['-'],-,Fallen Angels #1 (1987),Marvel Comics,good
+6563a1ae3ef936792ce0c23d,Hisako Ichiki,No alter egos found.,"['X-Girl', 'Kid']",-,Astonishing X-Men #4 (2004),Marvel Comics,good
+6563a1ae3ef936792ce0c23e,"Roy William Harper, Jr.",Speedy,['-'],-,-,Speedy,good
+6563a1ae3ef936792ce0c23f,Atom,No alter egos found.,['-'],-,-,unknown,good
+6563a1ae3ef936792ce0c240,Erik Josten,"Goliath, Power Man, Smuggler","['Power Man', 'Smuggler', 'Goliath', 'Shatterfist', 'Intruder from Beyond', 'Edward Jantzen']","Milwaukee, Wisconsin",Incredible Hulk #449,Goliath,good
+6563a1ae3ef936792ce0c241,unknown,No alter egos found.,"['Atlas the Great', 'Atlas the Untamed']",Crystal Mountain,Action Comics #121,DC Comics,bad
+6563a1ae3ef936792ce0c242,Albert Pratt,No alter egos found.,"['Little Superman', 'the Mighty Mite']",-,All American Comics #19,DC Comics,good
+6563a1ae3ef936792ce0c243,unknown,No alter egos found.,['-'],-,-,DC Comics,good
+6563a1ae3ef936792ce0c244,Salu Digby,No alter egos found.,['Shrinking Violet'],-,Teen Titans/Legion Special #1 (2004),DC Comics,good
+6563a1ae3ef936792ce0c245,Ray Palmer,No alter egos found.,"['The Mighty Mite', 'the Tiny Titan', ""the World's Smallest Hero""]",-,Showcase #34,DC Comics,good
+6563a1ae3ef936792ce0c246,Adam Cray,No alter egos found.,['-'],-,Suicide Squad (Volume 1) #44,DC Comics,good
+6563a1ae3ef936792ce0c247,Ryan Choi,No alter egos found.,['-'],-,Brave New World #1,DC Comics,good
+6563a1ae3ef936792ce0c248,Jeanne-Marie Beaubier,No alter egos found.,['Sister Beaubier'],"Montreal, Quebec, Canada",X-Men #121 (1979),Marvel Comics,good
+6563a1ae3ef936792ce0c249,unknown,No alter egos found.,"['Semihazah', 'Duma', 'Keriel', 'Mastema', 'Beliar', 'Gadreel', 'Beelzebub', 'Satan']","Isla des Demonas, Caribbean Sea",Uncanny X-Men #428 (2003),Marvel Comics,bad
+6563a1ae3ef936792ce0c24a,Michael Washington Lane,No alter egos found.,['Bat-Devil; Bat-Ghost'],Gotham City,"Batman #672 (February, 2008)",DC Comics,good
+6563a1ae3ef936792ce0c24b,Aztar,Spectre,['Spirit of Vengeance'],-,More Fun Comics #52 (February 1940),Spectre,good
+6563a1ae3ef936792ce0c24c,unknown,No alter egos found.,['-'],-,"Batman: Vengeance of Bane #1 (January, 1993)",DC Comics,bad
+6563a1ae3ef936792ce0c24d,Sean Cassidy,No alter egos found.,['Death'],"Cassidy Keep, Ireland","X-Men #28 (January, 1967)",Marvel Comics,good
+6563a1ae3ef936792ce0c24e,Roberto Velasquez,No alter egos found.,['-'],-,"Civil War: Front Line #3 (September, 2006)",Marvel Comics,good
+6563a1ae3ef936792ce0c24f,Barbara Gordon,Oracle,"['Oracle', 'Bluebelle']",-,Detective Comics #359,Oracle,good
+6563a1ae3ef936792ce0c250,Mary Elizabeth Kane,Hawkfire,"['Bette Kane', 'Bat-Girl']",-,Batman #139,Hawkfire,good
+6563a1ae3ef936792ce0c251,Helena Rosa Bertinelli,Huntress,['-'],-,-,Huntress,good
+6563a1ae3ef936792ce0c252,Cassandra Cain,No alter egos found.,"['Kasumi', 'various mundane persona,']",League of Assassins (exact base is unknown),Batman: Legends of the Dark Knight #120,DC Comics,good
+6563a1ae3ef936792ce0c253,Charlotte Gage-Radcliffe,Misfit,['-'],-,-,Misfit,good
+6563a1ae3ef936792ce0c254,Stephanie Brown,Spoiler,"['Steph', 'Robin', 'Marion Todd', 'Spoiler']",-,Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009),Spoiler,good
+6563a1ae3ef936792ce0c255,Terry McGinnis,No alter egos found.,"['Batman II', 'The Tomorrow Knight', 'The second Dark Knight', 'The Dark Knight of Tomorrow', 'Batman Beyond']","Gotham City, 25th Century",Batman Beyond #1,DC Comics,good
+6563a1ae3ef936792ce0c256,Bruce Wayne,No alter egos found.,"['Insider', 'Matches Malone']","Crest Hill, Bristol Township; Gotham County",Detective Comics #27,DC Comics,good
+6563a1ae3ef936792ce0c257,Dick Grayson,"Nightwing, Robin",['Dick Grayson'],-,-,Nightwing,good
+6563a1ae3ef936792ce0c258,Lemar Hoskins,No alter egos found.,['Bucky'],"Chicago, Illinois",Captain America #323 (1986); (as Bucky),Marvel Comics,good
+6563a1ae3ef936792ce0c259,Katherine Rebecca Kane,No alter egos found.,['-'],-,"52 #7 (June, 2006)",DC Comics,good
+6563a1ae3ef936792ce0c25a,Barnell Bohusk,No alter egos found.,['Blackwing'],"Cheverly, Maryland",-,Marvel Comics,good
+6563a1ae3ef936792ce0c25b,Henry Philip McCoy,No alter egos found.,"['Dr. McCoy', 'Hanko', 'Kreature', 'Mutate #666', 'Magilla Gorilla', 'Golden Armed Boy']","Dunfee, Illinois","X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",Marvel Comics,good
+6563a1ae3ef936792ce0c25c,Garfield Mark Logan,No alter egos found.,"['Changeling', 'Beast-Brat', 'Green Jeans', 'Salad-head', 'Sprout', 'Tork', 'Craig Logan']",-,"Doom Patrol #99 (November, 1965)",DC Comics,good
+6563a1ae3ef936792ce0c25d,unknown,No alter egos found.,['-'],-,-,Marvel Comics,bad
+6563a1ae3ef936792ce0c25e,Benjamin Kirby Tennyson,No alter egos found.,['Ben Ten'],-,Ben 10 S01E01,DC Comics,good
+6563a1ae3ef936792ce0c25f,Beta Ray Bill (translation of his Korbinite name),No alter egos found.,"['Beta Ray Thor', 'Simon Walters']",Burning Galaxy,Thor #337,Marvel Comics,good
+6563a1ae3ef936792ce0c260,unknown,No alter egos found.,"['Ataxi', 'The Beyond Realm', 'Frank', 'Goblin Force', 'Goblin King', 'Goblyn King', 'Goblin Queen', 'The One From Beyond', 'God', 'Kosmos', 'Maker']",Created in the Beyond,Marvel Super-Heroes Secret Wars #1,Marvel Comics,good
+6563a1ae3ef936792ce0c261,Barda Free,No alter egos found.,"['Barda', 'the Strongest Woman in the World']",-,Mister Miracle (Volume 1) #4,DC Comics,bad
+6563a1ae3ef936792ce0c262,Damon Macready,No alter egos found.,['-'],-,Kick-Ass #4,Icon Comics,good
+6563a1ae3ef936792ce0c263,Frederick Foswell,No alter egos found.,['Patch'],-,Amazing Spider-Man # 10 (1964),Marvel Comics,bad
+6563a1ae3ef936792ce0c264,unknown,No alter egos found.,['-'],-,-,SyFy,good
+6563a1ae3ef936792ce0c265,Billy Kincaid,No alter egos found.,['-'],-,Spawn #5 (October 1992),Image Comics,bad
+6563a1af3ef936792ce0c266,Carol Danvers,"Captain Marvel, Warbird","['Ms. Marvel', 'Binary']","Boston, Massachusetts","(as Carol Danvers) MARVEL SUPER HEROES #13, (as Ms. Marvel) MS. MARVEL #1, (as Binary) X-MEN # 164, AVENGERS Vol. 3, # 4",Captain Marvel,good
+6563a1af3ef936792ce0c267,Jamie Sommers,No alter egos found.,['Clarissa Whyte'],-,-,unknown,good
+6563a1af3ef936792ce0c268,unknown,No alter egos found.,['Bird-Boy'],-,"The New Mutants #56 (October, 1987)",Marvel Comics,good
+6563a1af3ef936792ce0c269,Henry Hawk,No alter egos found.,['-'],-,"Daredevil #10 (October, 1965)",Marvel Comics,bad
+6563a1af3ef936792ce0c26a,Achille DiBacco,No alter egos found.,['-'],"The Bar with No Name, Medina County, Ohio","Daredevil #157 (March, 1979)",Marvel Comics,bad
+6563a1af3ef936792ce0c26b,Ray Randal,No alter egos found.,"['Bird-Man', 'Harvey Birdman', 'Ray Randal', 'Harvey Birdman Attorney at Law', 'Harry', 'Henry', 'Birdbath', 'Bootyliciuos']",-,Birdman and the Galaxy Trio (1967),Hanna-Barbera,good
+6563a1af3ef936792ce0c26c,Lucas Bishop,No alter egos found.,['Archbishop'],A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth,"Uncanny X-Men #282 (November, 1991)",Marvel Comics,good
+6563a1af3ef936792ce0c26d,Bizarro,No alter egos found.,['-'],-,Superboy Vol. 1 #68 (1958),DC Comics,neutral
+6563a1af3ef936792ce0c26e,unknown,No alter egos found.,['Lord Abbott'],-,Marvel Team Up #146 (1984),Marvel Comics,bad
+6563a1af3ef936792ce0c26f,Teth-Adam,No alter egos found.,"['Hassan Bari', 'Theo Adam', 'Mighty Adam', 'Khem-Adam']","Kahndaq, Egypt","Marvel Family #1 (December, 1945)",DC Comics,bad
+6563a1af3ef936792ce0c270,Blackagar Boltagon,No alter egos found.,['-'],"Attilan, Atlantic Ocean","Fantastic Four #45 (December, 1965)",Marvel Comics,good
+6563a1af3ef936792ce0c271,Laurel Lance,No alter egos found.,['Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow'],-,Justice League of America (Volume 1) #75,DC Comics,good
+6563a1af3ef936792ce0c272,Dinah Drake Lance,No alter egos found.,['-'],-,"Flash Comics #86 (August, 1947)",DC Comics,good
+6563a1af3ef936792ce0c273,Felicia Hardy,No alter egos found.,['Felicity Harmon'],"Queens, New York","Amazing Spider-Man #194 (July, 1979)",Marvel Comics,good
+6563a1af3ef936792ce0c274,unknown,No alter egos found.,"['Barry Allen', 'Flashback', 'Slow Lightning', 'Black Racer', 'Death Flash', 'God of Death']",-,Flash Vol 2 #138,DC Comics,neutral
+6563a1af3ef936792ce0c275,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+6563a1af3ef936792ce0c276,Dane Whitman,No alter egos found.,"['The Pendragon', 'Gann Josin', 'Eobar Garrington']","Gloucester, Massachusetts",Avengers #47 (1967),Marvel Comics,good
+6563a1af3ef936792ce0c277,Jefferson Pierce,No alter egos found.,['-'],-,Black Lightning #1 (April 1977),DC Comics,good
+6563a1af3ef936792ce0c278,Tanya Sealy,No alter egos found.,['Tanya Sweet'],"Chicago, Illinois",Marvel Two-In-One #64,Marvel Comics,bad
+6563a1af3ef936792ce0c279,David,No alter egos found.,"['Devil Ray', 'Scourge of the Seven Seas', 'Yellow Lantern']",-,"Aquaman #35 (August, 1967)",DC Comics,bad
+6563a1af3ef936792ce0c27a,T'Challa,No alter egos found.,"['Mr. Okonkwo', 'The Man Without Fear', 'Luke Charles', 'Black Leopard', 'the Client', 'Coal Tiger', 'has impersonated Daredevil and others on occasion']","Wakanda, Africa",Fantastic Four Vol. 1 #52 (1966),Marvel Comics,good
+6563a1af3ef936792ce0c27b,Natasha Romanoff,No alter egos found.,"['Yelena Belova', 'Natasha Romanoff', 'Natasha', 'Tasha', 'Madame Natasha', 'Nancy Rushman', 'Laura Matthers', 'Nadine Roman', '""Oktober""', 'Black Pearl', 'Ebon Flame']",-,Tales of Suspense #52,Marvel Comics,good
+6563a1af3ef936792ce0c27c,Yelena Belova,No alter egos found.,['-'],-,-,Marvel Comics,good
+6563a1af3ef936792ce0c27d,unknown,No alter egos found.,['-'],-,"Ghost Rider Vol 3 #2 (June, 1990)",Marvel Comics,bad
+6563a1af3ef936792ce0c27e,Joseph Manfredi,No alter egos found.,"['Blackwing', 'Joe Manfredi', 'Joe Silvermane', 'Guiseppi Manfredi']",Professional Criminal,"Daredevil #118 (February, 1975)",Marvel Comics,bad
+6563a1af3ef936792ce0c27f,Lucian,No alter egos found.,"['Pelops', 'Black Wolf']",Armechadon,"Thunderstrike #6 (March, 1994)",Marvel Comics,-
+6563a1af3ef936792ce0c280,Eric Brooks,No alter egos found.,"['Switchblade', 'Frank Blade', 'Daywalker']","Soho, London,England",Tomb of Dracula Vol. 1 #10 (1973),Marvel Comics,good
+6563a1af3ef936792ce0c281,-,Vertigo II,['-'],-,-,Vertigo II,good
+6563a1af3ef936792ce0c282,Roxanne Washington,No alter egos found.,['-'],-,X-Men #171 (2005),Marvel Comics,good
+6563a1af3ef936792ce0c283,Clarice Ferguson,No alter egos found.,['-'],Bahamas,"Uncanny X-Men #317 (October, 1994)",Marvel Comics,good
+6563a1af3ef936792ce0c284,Gregor Shapanka,No alter egos found.,['Jack Frost'],-,Tales of Suspense #45,Marvel Comics,bad
+6563a1af3ef936792ce0c285,unknown,No alter egos found.,['-'],-,-,Marvel Comics,bad
+6563a1af3ef936792ce0c286,Donald Gill,No alter egos found.,['-'],"Newark, Delaware",Iron Man #223 (1987),Marvel Comics,bad
+6563a1af3ef936792ce0c287,Frederick J. Dukes,No alter egos found.,['-'],"Lubbock, Texas",X-Men #3 (1964),Marvel Comics,bad
+6563a1af3ef936792ce0c288,Jackie Lukus,No alter egos found.,['-'],-,(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449,Marvel Comics,bad
+6563a1af3ef936792ce0c289,Lemuel Krug,No alter egos found.,['Lemuel Halcon'],-,X-Men (2099) #1,Marvel Comics,good
+6563a1af3ef936792ce0c28a,Sean Dolan,No alter egos found.,"['Black Wraith', 'Blood Wraith']",-,(Dolan) Black Knight #2 (1990); (Bloodwraith) Avengers Annual #22 (1993),Marvel Comics,bad
+6563a1af3ef936792ce0c28b,Daniel Garrett,No alter egos found.,['Daniel Garret (spelling variation)'],-,Mystery Men Comics #1,DC Comics,good
+6563a1af3ef936792ce0c28c,unknown,No alter egos found.,['-'],-,-,DC Comics,good
+6563a1af3ef936792ce0c28d,Theodore Kord,No alter egos found.,['-'],"Chicago, Illinois",CAPTAIN ATOM Vol. 1 #83 (1966) (Published by Charlton Comics),DC Comics,good
+6563a1af3ef936792ce0c28e,Jaime Reyes,No alter egos found.,['Scooter'],Presumed to be El Paso,Infinite Crisis #3 (2006),DC Comics,good
+6563a1af3ef936792ce0c28f,unknown,No alter egos found.,"['Teff', 'Sava Brek Madak', 'Jaster Mereel', 'Mandalore', ""Mand'alor""]",Kamino,-,George Lucas,bad
+6563a1af3ef936792ce0c290,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+6563a1af3ef936792ce0c291,unknown,No alter egos found.,['-'],-,Bomb Queen (2006) #1,Image Comics,bad
+6563a1af3ef936792ce0c292,Tabitha Smith,Meltdown,"['Time Bomb', 'Boomer', 'Meltdown', 'Tabby', 'Firecracker', 'Mutate #35', 'Nancy Forrester']",-,Secret Wars II #5,Meltdown,good
+6563a1af3ef936792ce0c293,unknown,No alter egos found.,['-'],-,-,Marvel Comics,good
+6563a1af3ef936792ce0c294,Michael Jon Carter,No alter egos found.,"['Bharjwarj', 'Bloodspot', 'Boosteroo', 'Booster', 'the Boy Wonder', 'Buster', 'Deathstroke', 'Goldstar', ""Greatest Hero You've Never Heard Of"", 'Guardian of the Multiverse', 'Jesus Alvarez', 'Kid', 'Killer Moth', 'The King', 'Loser Gold', 'Major Idiot', 'Man of Gold', 'Michael Carter', 'Blac']","Gotham City, 25th Century",Booster Gold #1,DC Comics,good
+6563a1af3ef936792ce0c295,Roger Bochs,No alter egos found.,['Omega'],-,-,Marvel Comics,good
+6563a1af3ef936792ce0c296,Dr. Walter Langowski,No alter egos found.,"['Box III', 'Wanda']",British Columbia,First appearance unknown,Marvel Comics,good
+6563a1af3ef936792ce0c297,Madison Jeffries,Gemini V,"['Gemini', 'Jack-In-The-Box']",Place of birth unknown,Alpha Flight #16,Gemini V,good
+6563a1af3ef936792ce0c298,Vril Dox,No alter egos found.,['Milton Fine'],-,Action Comics #242 (July 1958),DC Comics,bad
+6563a1af3ef936792ce0c299,Querl Dox,No alter egos found.,['-'],-,"Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",DC Comics,good
+6563a1af3ef936792ce0c29a,Jericho Drumm,No alter egos found.,"['Doctor Voodoo', 'Sorcerer Supreme']","Port-au-Prince, Haiti","Strange Tales #169 (September, 1973)",Marvel Comics,good
+6563a1af3ef936792ce0c29b,Seth Brundle,No alter egos found.,['The Fly'],-,The Fly (1986),unknown,-
+6563a1af3ef936792ce0c29c,Buffy Anne Summers,No alter egos found.,"['Anne', 'The Chosen One', 'The Vampire Slayer', 'The Slayer', 'Buff', 'B', 'The Buffster', 'Belinda', 'Joan']",-,Dark Horse Presents 1998 Annual,Dark Horse Comics,good
+6563a1af3ef936792ce0c29d,Lester,No alter egos found.,"['Benjamin Poindexter', 'Daredevil', 'Punisher', 'Bullseye', 'Hawkeye', 'pitcher']",-,"Daredevil #131 (March, 1976)",Marvel Comics,bad
+6563a1af3ef936792ce0c29e,Karen Beecher,No alter egos found.,['-'],-,Teen Titans #45,DC Comics,good
+6563a1af3ef936792ce0c29f,unknown,No alter egos found.,['-'],-,New X-Men #153,Marvel Comics,good
+6563a1af3ef936792ce0c2a0,Ryuko Orsono,No alter egos found.,['-'],-,Titans: Secret Files & Origins #2,DC Comics,good
+6563a1af3ef936792ce0c2a1,Nathan Summers,No alter egos found.,"['Chosen One', 'Soldier X', 'Nathan Dayspring', ""Askani'son"", 'Nathan Dayspring Summers', 'Nathan Winters', 'The Traveller', 'The Saviour']",Unrevealed location in the 20th Century United States,New Mutants #86 (as Cable),Marvel Comics,good
+6563a1af3ef936792ce0c2a2,Callisto,No alter egos found.,['-'],-,X-MEN (first series) #169,Marvel Comics,bad
+6563a1af3ef936792ce0c2a3,unknown,No alter egos found.,['-'],-,-,SyFy,good
+6563a1af3ef936792ce0c2a4,Samuel Zachery Guthrie,No alter egos found.,"['Formerly Samson Guthry', 'Sam Guthrie', 'Jet-Ass']","Cumberland County, Kentucky",Marvel Graphic Novel #4 (1982),Marvel Comics,good
+6563a1af3ef936792ce0c2a5,Steve Rogers,No alter egos found.,"['Nomad', 'The Captain']","Manhattan, New York City, New York",Captain America Comics #1 (March 1941),Marvel Comics,good
+6563a1af3ef936792ce0c2a6,Nathaniel Adam,No alter egos found.,"['Monarch', 'Allen Adam', 'Cameron Scott']",-,Captain Atom #1,DC Comics,good
+6563a1af3ef936792ce0c2a7,Brian Braddock,No alter egos found.,"['Britannic', 'Black Bishop', 'Jungle Man', 'King of Otherworld', 'Merlinson']","Braddock Manor, England","Captain Britain #1 (October, 1976)",Marvel Comics,good
