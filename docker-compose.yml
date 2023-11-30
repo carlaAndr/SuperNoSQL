@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile.dockerfile
     command: >
-      bash -c "python SuperMongo2.py && python SuperCassandra.py"
+      bash -c "python SuperMongo2.py && python SuperCassandra.py && updataneo.py"
     depends_on:
       - cassandra
       - neo4j
