@@ -5,7 +5,7 @@ from pymongo import MongoClient
 import json
 
 
-token='6622488331213745'
+token=1##Aqui se debe incluir el token proporcionado
 url= 'https://www.superheroapi.com/api.php/'+token
 
 
