@@ -40,9 +40,11 @@ Utilizamos la API : Superhéroes
 
    
 ## Extract Transform y Load en Neo4J (updataneo.py)
+1.v 
+2.
   
 
-## ¿Cómo utilizarla?
+# ¿Cómo utilizarla?
 1. Clonar el repo.
 2. Posicionarse en ese directorio.
 3. Descarga los CSV al mismo directorio (los quitamos de Git para que fuera más ligero)
