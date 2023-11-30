@@ -73,8 +73,8 @@ Utilizamos la API : Superhéroes
   ```bash
 localhost:7474  
   ```
--user: neo4j
--pasword: 12345678
+- user: neo4j
+- pasword: 12345678
 
 9. Realizar las consultas (Se encuentren en Queries Final para Neo4j).
    
