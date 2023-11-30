@@ -21,17 +21,17 @@ Buscar alguna API que llame la atención al equipo, con esta API, conectarla atr
 
 # Implementacion
 
-* API usada
+## API usada
 
 Utilizamos la API : Superhéroes
  ```bash
   https://superheroapi.com
  ```
-* Extracción y Load en Mongo (SuperMongo2.py)
+## Extracción y Load en Mongo (SuperMongo2.py)
 1. Utilzamos la libreria request para conectamos al API usando un private key que esta en el archivo de python.
 2. Extrajimos de froma local un json de la información, nos conectamos al contenedor de Mongo y vaciamos los datos en la colección llamada super_col.
 
-* Extract Transform y Load en Cassandra (SuperCassandra.py)
+## Extract Transform y Load en Cassandra (SuperCassandra.py)
 1. Ya que la base datos esta en el contenedor de Mongo DB, nos conectamos al puerto de del contenedor de Mongo y extrajimos la base datos que contenia en la colección 'super_col'
 2. Estandarizamos los datos para que no hubiera datos tipo null, '-' o vacios. Los remplazamos por un valor numérico de 0 o con el lable de 'Unknown en caso de ser necesario.
 3. Eliminamos las columnas que contenian mucho texto, como lo son 'connections.group-affiliation' y 'connections.relatives'. También eliminamos columnas que no nos proporcionaban información como la de 'image.url'
@@ -39,7 +39,7 @@ Utilizamos la API : Superhéroes
 5. Por último, nos conectamos al contenedor de cassandra y vaciamos la base de datos usando el Key de supers y nombrando a la tabla columnar superheros.
 
    
-* Extract Transform y Load en Neo4J (updataneo.py)
+## Extract Transform y Load en Neo4J (updataneo.py)
   
 
 ## ¿Cómo utilizarla?
