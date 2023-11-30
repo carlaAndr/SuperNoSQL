@@ -19,7 +19,7 @@ Que los alumnos muestren el entendimiento y capacidad de manejo de las diferente
 
 Buscar alguna API que llame la atención al equipo, con esta API, conectarla através de python con una base de datos MongoDB. Posteriormente, hacer un ETL que cargue la base de datos procesada  a una base de datos estilo grafo y una base columnar; evidentemente las transformaciones y los subconjuntos de datos ocupados serán diferentes para cada base de datos ya que tienen fines diferentes cada una.
 
-# Implementacion
+# Implementación
 
 ## API usada
 
@@ -27,7 +27,7 @@ Utilizamos la API : Superhéroes
  ```bash
   https://superheroapi.com
  ```
-## Extracción y Load en Mongo (SuperMongo2.py)
+## Extract y Load en Mongo (SuperMongo2.py)
 1. Utilzamos la libreria request para conectamos al API usando un private key que esta en el archivo de python.
 2. Extrajimos de froma local un json de la información, nos conectamos al contenedor de Mongo y vaciamos los datos en la colección llamada super_col.
 
