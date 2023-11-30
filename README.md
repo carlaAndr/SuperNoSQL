@@ -38,8 +38,8 @@ Utilizando la API : Superhéroes
   ```
 7. Ejecutar Neo 4J con el comando (TARDA)
   ```bash
-  #Comando para ejecutar Neo 4J
-  
+#Comando para el buscador
+localhost:7474  
   ```
    
  
