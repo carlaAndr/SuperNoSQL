@@ -38,10 +38,12 @@ Utilizamos la API : Superhéroes
 4. Cambiamos los nombres de la columnas de 'powerstats.intelligence' a 'Intelligence. Esto para que pudiera ser más fácil la lectura.
 5. Por último, nos conectamos al contenedor de cassandra y vaciamos la base de datos usando el Key de supers y nombrando a la tabla columnar superheros.
 
-   
-## Extract Transform y Load en Neo4J (updataneo.py)
-1.v 
-2.
+## Extract Transform y Load en Neo4J (updataneo.py y LimpiezaNeo.ipynb)
+1. Utilizamos un csv obtenido la API directamente ya normalizado.
+2. De ahí se hizo una división utilizando DataFrames para cada clase de dato (character, powerstats,...) para que cada uno termine siendo un nodo en Neo4j.
+3. Se agrega el id a todas las tablas para implementar la relación.
+4. Cambiamos cada nombre de las columnas para que quitar información extra (ejemplo: powerstats.durability -> durability).
+5. Finalmente, se suben las tablas a Neo4j (usuario: Neo4j password: 12345678), creando relaciones de cada atributo del superhéroe a su nombre.
   
 
 # ¿Cómo utilizarla?
