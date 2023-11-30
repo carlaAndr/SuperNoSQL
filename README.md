@@ -1,5 +1,8 @@
 # Superhéroe
 Proyecto Otoño 2023
+
+![Superhéroe](super.jpg)
+
 Utilizando la API : Superhéroes
  ```bash
   https://www.superheroapi.com/api.php/
